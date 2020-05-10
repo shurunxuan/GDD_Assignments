@@ -1,0 +1,11 @@
+The DS (Driving Simulator) Engine is a game engine that mainly focusing on making racing games.
+The idea of this engine comes from the team members wanting to make something cool for rendering, physics and audio, and an engine for racing game falls in our expectation. 
+The engine is made up of three parts: framework, systems and application. The framework is where the engine talks to other libraries including Direct3D 11, XAudio2, etc. The systems, which includes rendering, input, physics and audio are working on the framework. And on top of systems there's the user-side game application logic.
+The scene graph is entity-component, and it's very easy to write logics as a component for a game object. The objects are stored in a planar way and they have parent-children relationship with a specialized component called transform.
+The engine features a good enough PBR rendering system, an audio system that supports 3D audio effects including positioning and doppler effect, an input system that is very intuitive and good in performance, and a physcis system that focusing on car physics.
+There are two games made with this engine so far. One is the proposed racing game for IGME750 Game Engine Design and Development, and another one is a tower-building strategy game for IGME740 Game Graphics Programming. 
+
+Contribution:
+Victor Shu: Scene Graph, Game Loop, Rendering System, Input System
+Yun Jiang: Scene Graph, Game Loop, Audio System, Car Engine Audio
+Weihao Yan: Scene Graph, Game Loop, Physics System, Car Physics

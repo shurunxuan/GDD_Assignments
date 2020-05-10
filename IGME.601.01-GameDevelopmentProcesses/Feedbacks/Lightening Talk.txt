@@ -1,0 +1,6 @@
+Assigned Topic: Concept Development (and management of requirements risks)
+Slide (2.5/5):
+- Has a list of subtopics to cover, but minimal details. The content is also heavily focused on ""what"" (names of specific concepts), but not why/when/how to apply them. All in all, the slide provided an overview of what you were going to talk about, but has minimal value as a standalone reference.
+
+Talk: (4/5):
+- The talk felt unrehearsed (more like two related talks than a single one). This led to some rambling and going over time. That said, the actual content of your talk was pretty good even if the slide didn't support it well.

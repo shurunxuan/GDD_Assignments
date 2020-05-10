@@ -1,0 +1,13 @@
+Don't worry about talking about a genre instead of a game in this case. Honestly, you mostly get around the problem by talking about the toy - the cards themselves - and their constraints and affordances.
+
+You should feel free to make comments on the effects of something (constraints or affordances) without stating that they are good or bad. Design requires constraints, and constraints are inevitable. When designing, sometimes it is best to impose constraints, and we always impose constraints once we start creating a design. Constraints are neither good nor bad, but it is essential in design to understand constraints.
+
+Affordances are also not good or bad. An affordance is what is facilitated by, in this case, the cards themselves (as opposed to what is constrained by them). The ability to randomize is an affordance. The four suits and the symmetry between suits is an affordance.
+
+Some elements are both at the same time. The abstraction is both constraint and affordance, depending on what we are talking about.
+
+Your analysis is good. You talk about not just the variety of card games, but what in the toy (the cards) allows us to make so many different games out of the toy. (I am using "toy" in a game studies sense - an artifact of play without a goal. In this definition, one of many, a game is a toy with a goal.)
+
+Don't worry about your limited knowledge, I don't care and you will learn more as you have more exposure. I am more concerned here with how much you can take from what you do know, and being able to understand the reason why cards work so well as a toy sparking many potential games is an important as understanding why a game works.
+
+Nice work.

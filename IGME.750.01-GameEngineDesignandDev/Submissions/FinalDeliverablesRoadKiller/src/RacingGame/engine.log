@@ -1,0 +1,551 @@
+2019-04-30 22:36:28.086730:   <warning>   [DSEngineFramework\DSFDirect3D.cpp:147]                Direct3D Device & Context not initialized. Skipping resize.
+2019-04-30 22:36:28.090730:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x4398 created.
+2019-04-30 22:36:28.091732:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x8464 created.
+2019-04-30 22:36:28.091732:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x5a44 created.
+2019-04-30 22:36:28.092731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x803c created.
+2019-04-30 22:36:28.093731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x82b8 created.
+2019-04-30 22:36:28.093731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x42b8 created.
+2019-04-30 22:36:28.093731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x2464 created.
+2019-04-30 22:36:28.092731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x7344 created.
+2019-04-30 22:36:28.093731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x84a4 created.
+2019-04-30 22:36:28.094730:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:42]                  XAudio2 Engine Created.
+2019-04-30 22:36:28.094730:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x4638 created.
+2019-04-30 22:36:28.093731:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x7ef0 created.
+2019-04-30 22:36:28.145732:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:51]                  Mastering voice created with 2 channel(s), sample rate 48000Hz.
+2019-04-30 22:36:28.146731:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:33]                  DS Engine Framework for XAudio2 Initialized!
+2019-04-30 22:36:28.147731:     <trace>   [DSEngineSystem\DSSAudio.cpp:22]                       DS Engine Audio System Initialized!
+2019-04-30 22:36:28.321733:     <trace>   [DSEngineFramework\DSFDirect3D.cpp:135]                DS Engine Framework for Direct3D Initialized!
+2019-04-30 22:36:28.322731:     <trace>   [DSEngineSystem\DSSRendering.cpp:35]                   DS Engine Rendering System Initialized!
+2019-04-30 22:36:28.327731:     <trace>   [DSEngineFramework\DSFXInput.cpp:33]                   DS Engine Framework for XInput Initialized!
+2019-04-30 22:36:28.330731:     <trace>   [DSEngineFramework\DSFRawInput.cpp:42]                 DS Engine Framework for Raw Input Initialized!
+2019-04-30 22:36:28.331731:     <trace>   [DSEngineSystem\DSSInput.cpp:26]                       DS Engine Input System Initialized!
+2019-04-30 22:36:28.332730:     <trace>   [DSEngineSystem\DSEngineApp.cpp:54]                    High precision joystick input polling thread working at 0x4398
+2019-04-30 22:36:28.333730:     <trace>   [DSEngineSystem\DSEngineApp.cpp:81]                    DSEngineApp Init
+2019-04-30 22:36:29.535732:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.549730:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/idle.wav opened.
+2019-04-30 22:36:29.550733:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.551732:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.564731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/startup.wav opened.
+2019-04-30 22:36:29.565732:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.567731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.578732:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/high_on.wav opened.
+2019-04-30 22:36:29.580731:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.581731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.592732:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/med_on.wav opened.
+2019-04-30 22:36:29.593733:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.594731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.606731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/low_on.wav opened.
+2019-04-30 22:36:29.606731:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.608731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.617730:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/maxRPM.wav opened.
+2019-04-30 22:36:29.618731:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.663731:   <warning>   [RacingGame\RacingGameApp.cpp:425]                     Non-uniform scale will result in unexpected result!
+2019-04-30 22:36:29.665731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.673732:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/wind.wav opened.
+2019-04-30 22:36:29.674732:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.676732:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/wind.wav" playback at 0x8a34
+2019-04-30 22:36:29.684733:   <warning>   [RacingGame\RacingGameApp.cpp:425]                     Non-uniform scale will result in unexpected result!
+2019-04-30 22:36:29.685731:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-30 22:36:29.693729:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/wind.wav opened.
+2019-04-30 22:36:29.694730:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-30 22:36:29.696731:      <info>   [RacingGame\RacingGameApp.cpp:442]                     Scene Structure:
+2019-04-30 22:36:29.696731:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/wind.wav" playback at 0x84c4
+2019-04-30 22:36:29.697732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	AventHolder	{0ab4df54-6eb0-48d9-8d72-5c43c2f82898}
+2019-04-30 22:36:29.698730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		Avent.obj	{2b2b8572-ddf7-432a-96ce-cd2e928ba70f}
+2019-04-30 22:36:29.699731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Aventador	{ed5673d9-3152-47b2-acf0-076ae0de63ce}
+2019-04-30 22:36:29.699731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4964a410-1e3c-43f2-b9ad-a8dc6e15b334}
+2019-04-30 22:36:29.700732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{ea6637be-52ed-4fca-a5e7-f67e7de1aff7}
+2019-04-30 22:36:29.701732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{527c93c5-ae0f-424e-bf82-9213b1bdfac2}
+2019-04-30 22:36:29.702732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{aa645a53-b902-4de8-a3b2-36c0f70a3f7e}
+2019-04-30 22:36:29.702732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{924134fc-3f6e-4e56-85b4-6049c7b5e0d7}
+2019-04-30 22:36:29.704732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{766017e4-cf84-4445-bfdd-5960bf2d9c25}
+2019-04-30 22:36:29.704732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{939cdaf0-9698-43f8-8229-9d295ac9e6d8}
+2019-04-30 22:36:29.705731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{9d72a5d9-3f12-452c-909e-da32fd2b80a6}
+2019-04-30 22:36:29.706731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{5ab91a6f-f9f3-4c0e-962c-717d20eb1038}
+2019-04-30 22:36:29.707731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{65f8864a-637a-46d0-85a0-b2bed3046624}
+2019-04-30 22:36:29.707731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{d10a2a1a-dcb5-4465-9c1a-65e1337155f2}
+2019-04-30 22:36:29.708729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{583d9238-da28-46d1-aa69-1c7d37174493}
+2019-04-30 22:36:29.709731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4fe82a12-c0d4-4c56-bbf8-016953d4ef15}
+2019-04-30 22:36:29.710730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{69902ffa-c382-4e09-8209-962ab9a4e1e3}
+2019-04-30 22:36:29.710730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{dd477618-ae52-4113-8707-1e5e39f3527e}
+2019-04-30 22:36:29.711730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{fbc2d6c8-b8b0-44b0-9105-a425c67301d1}
+2019-04-30 22:36:29.713731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{b46d05f9-e768-4611-802d-2ada24442be0}
+2019-04-30 22:36:29.714731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{d045bc57-02e7-48fb-8e9b-cc3870a15dee}
+2019-04-30 22:36:29.715732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{575468be-5476-437a-b24e-666fa4eaa00a}
+2019-04-30 22:36:29.716731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{e46f4b46-9cd9-4deb-8d1a-ede3df012ef5}
+2019-04-30 22:36:29.717732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{2e8d1bb4-ea42-43bf-91b4-ed7e4324c397}
+2019-04-30 22:36:29.718732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{7d2ae716-fce8-4c81-b2bf-611810dbdc70}
+2019-04-30 22:36:29.719732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{566b5fbd-01a1-481d-91e5-45dcd9ef63a0}
+2019-04-30 22:36:29.719732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{69d90891-5d2d-44cf-a215-cdf6d9cfee68}
+2019-04-30 22:36:29.720731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4d884ab1-374e-4f4f-8127-ec80e50413a8}
+2019-04-30 22:36:29.721732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{1032c0f0-cdb0-4118-93d2-e9e7e0b3c810}
+2019-04-30 22:36:29.722730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{8c4fd70e-94fd-45a2-ab1d-03f7f5d83637}
+2019-04-30 22:36:29.722730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{9dd666e0-7b48-4649-a0e4-be7d0198c4a9}
+2019-04-30 22:36:29.723731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{cbe7170e-ed99-4dcf-aed0-764be9ceba85}
+2019-04-30 22:36:29.724730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{f36ec4ef-cd52-4a5c-bc27-44b7728ff1d1}
+2019-04-30 22:36:29.725730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{6836aeaf-599a-4e19-9a0e-c9ac7f85d22d}
+2019-04-30 22:36:29.726730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{0ec8289e-a264-467a-abae-cf349aec6143}
+2019-04-30 22:36:29.726730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e7d28203-50d4-4ebb-94f8-8de8198d38fd}
+2019-04-30 22:36:29.727730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{bc639f48-d900-4289-9347-25b5ea9edee9}
+2019-04-30 22:36:29.728730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{558772fb-f2d4-40ef-bd55-ea32dc375917}
+2019-04-30 22:36:29.729733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{00ac511d-33fc-4b1a-8e26-a92ac456fd54}
+2019-04-30 22:36:29.730731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{07951023-f301-40f4-84d8-e33d442c3215}
+2019-04-30 22:36:29.731731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{7f33e546-97d4-4afd-94b5-62667256bcd9}
+2019-04-30 22:36:29.732731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{804f6074-6a5d-4651-a5f2-3dc1afaeb2ca}
+2019-04-30 22:36:29.733730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{1e51dbcb-4e63-4c6e-8321-5b711cdeebf3}
+2019-04-30 22:36:29.734730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model	{14683654-ec81-4a60-a490-a79f0ba40f64}
+2019-04-30 22:36:29.735730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model	{6c273f70-0287-4af1-9da6-8525a2e30336}
+2019-04-30 22:36:29.736732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{886f6b46-f1bd-4961-bfba-5deee2965337}
+2019-04-30 22:36:29.737731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{a6ce71bd-2462-4479-9e43-ffb7a565517d}
+2019-04-30 22:36:29.738731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{3ffa17d5-fe3a-4c95-809a-50ac5a9f86b8}
+2019-04-30 22:36:29.739731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{f8eaf205-208a-4db7-8f34-fdc6b15e4f0f}
+2019-04-30 22:36:29.740730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{835c07af-f63e-4e2a-81db-c2684c8f9ecd}
+2019-04-30 22:36:29.741730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{d2547874-4965-47e5-bbc4-f2fde1a6aa0b}
+2019-04-30 22:36:29.741730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{72bf5c3f-676e-48cd-89c9-92eaf470e514}
+2019-04-30 22:36:29.742730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh261_032Group1_032Lamborghini_Aventador1_032Model	{427b1e86-10b1-4cc8-9f3a-f66cbf927adf}
+2019-04-30 22:36:29.743732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{dca93a90-c8ab-49af-9516-93cf579421db}
+2019-04-30 22:36:29.744732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{4a857531-dff1-41fb-8488-75f8aede64b5}
+2019-04-30 22:36:29.745732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{d104c3e1-750d-41b2-bbd7-916499f8e697}
+2019-04-30 22:36:29.746732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{e0d49a38-cf1f-4e5d-bc13-c6b67dcd914e}
+2019-04-30 22:36:29.747731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{307a63b4-8573-4bad-9c6d-886e9b3622c4}
+2019-04-30 22:36:29.748733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{75a8ec44-baaa-4ed6-b2b4-d16713f1da56}
+2019-04-30 22:36:29.749731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{f09e3d12-59dd-461b-9591-517ade7aa506}
+2019-04-30 22:36:29.750730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{3649d312-3e4d-4179-9e7a-71111fa71258}
+2019-04-30 22:36:29.751731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{4acd57e8-ef48-4548-b9a0-95024b498877}
+2019-04-30 22:36:29.752732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{0e1b71cc-8e72-42bf-850b-a5c1559cea4b}
+2019-04-30 22:36:29.753730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{0c37a917-d574-4043-84e2-00971cbcc5d7}
+2019-04-30 22:36:29.755731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{93f264a6-6ead-410f-b706-8c1410203ddf}
+2019-04-30 22:36:29.755731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{f742c7b1-16d7-4b14-8a69-526544e8ae05}
+2019-04-30 22:36:29.756731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{dab09b55-32a4-46cc-a6ed-12dcd4a39dff}
+2019-04-30 22:36:29.757731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{e6b477f6-9336-4076-bb89-ab82fdbed883}
+2019-04-30 22:36:29.758730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{501c0aee-9a09-4a32-a260-7320d2d37f27}
+2019-04-30 22:36:29.759730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{27869216-57d3-4d16-8dae-0b9b47bf084b}
+2019-04-30 22:36:29.760730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{6554a253-902d-4328-b171-bbae4c432e7b}
+2019-04-30 22:36:29.761730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{0e6d376e-eceb-4dd2-bd66-7158721a88c8}
+2019-04-30 22:36:29.761730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{7432171f-04bb-42dd-9af5-86c4c252f32f}
+2019-04-30 22:36:29.762730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model	{a34fbe37-bb47-45f4-bbcf-1ae5114bf896}
+2019-04-30 22:36:29.764733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{1e60bc9e-bc39-4845-9a8b-a8bcec2b78d0}
+2019-04-30 22:36:29.765731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{c4cac45a-ff58-4903-95bc-dc25b3dbcc8e}
+2019-04-30 22:36:29.766731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{3c16c4b7-596e-44ce-b6e9-f97e18c22961}
+2019-04-30 22:36:29.767732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{606ad403-9ba4-4091-ac86-09186615ea94}
+2019-04-30 22:36:29.767732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{42d2e5d5-45f4-4520-8a2f-5ad7f53b1de1}
+2019-04-30 22:36:29.768732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{a86e485f-9aea-4f07-84ca-b00bcdd3ec22}
+2019-04-30 22:36:29.769732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model	{f3e39fab-0950-4ba3-b207-7e496d26f219}
+2019-04-30 22:36:29.769732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model	{a684acc7-6f6b-40a7-abd8-a59747247e01}
+2019-04-30 22:36:29.771731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model	{262de302-d60f-4249-ba71-a3011d726677}
+2019-04-30 22:36:29.771731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model	{e04e7049-cad7-47c9-85da-1f7b44e02b0e}
+2019-04-30 22:36:29.772730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{f2997e71-aafb-4240-88f3-7460b45479cb}
+2019-04-30 22:36:29.773732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model	{46842451-191a-4e82-b3d9-df0538fbb410}
+2019-04-30 22:36:29.774732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model	{10440ece-62b0-4ce3-898d-f07844d63ef3}
+2019-04-30 22:36:29.775730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{bdf502d9-d90d-4591-89fc-ef539b640454}
+2019-04-30 22:36:29.775730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{23edca92-6858-429a-870e-7d7558fc8dc6}
+2019-04-30 22:36:29.776730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{b4624b15-58c6-4212-bd31-0548492255b3}
+2019-04-30 22:36:29.777729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{f11ae465-0853-4a10-b0f9-f3f701422fd0}
+2019-04-30 22:36:29.778732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{d316ded7-2174-4198-b4c7-fd0e1df14b72}
+2019-04-30 22:36:29.779731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{ebf76e53-3d80-407a-8613-4bc504b91e17}
+2019-04-30 22:36:29.780732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{758bf9ae-c2fe-468e-82ea-0d71aea60afa}
+2019-04-30 22:36:29.781731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{4f6e913b-6e28-46d7-88c0-eaeb497910ed}
+2019-04-30 22:36:29.782731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{92c9c25b-6f88-4fe0-97fe-04721c3d3912}
+2019-04-30 22:36:29.783731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{b9c8fb5f-c2df-47ee-a6db-953a3e0986bd}
+2019-04-30 22:36:29.783731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{e2bd72d6-8c74-4ae9-b416-262f00da7a1a}
+2019-04-30 22:36:29.784731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model	{0c9c9cd8-e261-4bf4-b589-3c7245d3ef53}
+2019-04-30 22:36:29.785729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model	{10540eb8-ea41-4e64-a4e7-7f51e83e6470}
+2019-04-30 22:36:29.785729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model	{4aecca1e-03a9-4dd9-a40c-6e6749baa7ef}
+2019-04-30 22:36:29.786729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{d73e72db-6659-43e9-9433-fc300689279a}
+2019-04-30 22:36:29.787733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model	{dbce94e7-e534-40ef-9466-a520837a6131}
+2019-04-30 22:36:29.788730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{b3f27100-c9c5-45b1-800f-dfeac4096ba0}
+2019-04-30 22:36:29.789730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{21dcd430-65ce-4aff-bb36-178a06752b67}
+2019-04-30 22:36:29.790732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{19a83dd4-3e74-48f2-a0ac-9119beb9023d}
+2019-04-30 22:36:29.791730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{519551a8-f1d5-4215-85d6-3fa7af9b73e7}
+2019-04-30 22:36:29.792731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{c6931f3e-2b0a-4f4b-baa5-1bf0c2dd4d14}
+2019-04-30 22:36:29.793732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{27eb283a-c999-4549-82d5-51949776c82f}
+2019-04-30 22:36:29.793732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{08106778-1878-42bb-ba47-17e2d52fb49e}
+2019-04-30 22:36:29.794733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{dd61fafe-c19c-4710-b9a8-9f01fe7674a3}
+2019-04-30 22:36:29.795731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{b9b228b9-97aa-4878-ab78-6a248958e358}
+2019-04-30 22:36:29.796732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{29a3862a-ea96-4f39-b903-5a3cccc5b500}
+2019-04-30 22:36:29.797731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{340d87f1-d6b8-4df8-86bf-cb7d2b14f448}
+2019-04-30 22:36:29.798731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{2588282c-49b7-4beb-a47e-644abd99ed72}
+2019-04-30 22:36:29.799732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{29625de7-a6f6-4138-b0ab-ac3945d81cff}
+2019-04-30 22:36:29.799732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{444b274e-719a-4037-934d-a5c84379b692}
+2019-04-30 22:36:29.801731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{f3cd3fe8-63d9-4d52-80b4-fbd44de6935c}
+2019-04-30 22:36:29.802731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4c9e71d2-a6ac-494e-9d42-b2933f872c49}
+2019-04-30 22:36:29.802731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{95569707-4810-4455-848f-bc3c0fb042e1}
+2019-04-30 22:36:29.803732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{5c9506e7-c82e-4eee-a0e4-b61bace12f0b}
+2019-04-30 22:36:29.804730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{913d76d7-d13f-42f1-a7bf-0dbd2622e7ea}
+2019-04-30 22:36:29.805732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{f1d30bcf-e469-493a-88a9-d6a8f4c374b0}
+2019-04-30 22:36:29.806730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{094f4846-a024-4c38-b5d3-88617562a49b}
+2019-04-30 22:36:29.807732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{bc223f40-5cc9-41ab-9e1e-f9592d15d6a0}
+2019-04-30 22:36:29.807732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{77427da5-aac1-426a-8221-69d8f13efc7e}
+2019-04-30 22:36:29.808730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{0568710b-2609-4203-833e-54b5fa52887c}
+2019-04-30 22:36:29.809732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{6a6f8702-24f4-4313-86f3-bf05aa302e27}
+2019-04-30 22:36:29.810730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{dcf146a8-fa84-435e-b696-3e9ebba05c86}
+2019-04-30 22:36:29.811731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{5864ccb8-d646-48b7-9a4e-38c0d5177857}
+2019-04-30 22:36:29.811731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{7518464a-1821-45e9-a3f2-370bc4dc840e}
+2019-04-30 22:36:29.812732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{dd9f43ce-f0f0-425f-93d2-4a92ca4d1ecc}
+2019-04-30 22:36:29.813732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{de3fe287-615f-4cac-b66f-445f147ae5b2}
+2019-04-30 22:36:29.814733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{d0f567c6-a2a0-445d-8dd8-be9963998ddf}
+2019-04-30 22:36:29.815731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{81f7dcfd-d67e-4d3d-99f6-542f459c63e2}
+2019-04-30 22:36:29.816731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{b376ea49-6c7d-49c7-bf4a-2833336eb422}
+2019-04-30 22:36:29.816731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{7287c5a0-c8c2-4228-9a93-1a3bc559d228}
+2019-04-30 22:36:29.817730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{bda2bcd2-71f7-4bd9-b8a6-a23a91ff018b}
+2019-04-30 22:36:29.819730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{6c397bfb-fb3b-4e8e-9327-91202982bcdd}
+2019-04-30 22:36:29.819730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{943d9b48-2f03-4824-a635-90690bf84792}
+2019-04-30 22:36:29.820732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{0fad6cff-0d4d-4dee-b7e2-5c85262f89a3}
+2019-04-30 22:36:29.821730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{72b204b0-f86a-478f-8636-898a78d1eb5b}
+2019-04-30 22:36:29.822730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{eb473229-790a-4f28-9781-5cbf33e21061}
+2019-04-30 22:36:29.823730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{cb6abdf4-c58d-4bfd-ab09-4466475afed2}
+2019-04-30 22:36:29.824729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{07933bb2-b447-45af-a6fc-8d25990e468b}
+2019-04-30 22:36:29.825730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{40d828cc-5ae0-41be-bd25-348c3b85465b}
+2019-04-30 22:36:29.826730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{d08435be-3dc5-4c1e-81d1-140b1f9835cd}
+2019-04-30 22:36:29.826730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{fe0e1a5a-cf22-479f-a3c4-8b3d4bcafed7}
+2019-04-30 22:36:29.827731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{ced86c35-3a59-4c2c-bcba-e10ae2dcfa0b}
+2019-04-30 22:36:29.828731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{c3736822-a1c5-4a2a-8f8a-a0ed08516c74}
+2019-04-30 22:36:29.829733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{f7a828b5-1e0b-46a4-9896-4fcd8a00ae66}
+2019-04-30 22:36:29.829733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{cf701a6e-87f3-4735-8bce-c42b3e4385e4}
+2019-04-30 22:36:29.830731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{614fa0df-1997-4d7c-a7af-ff47221e8dd3}
+2019-04-30 22:36:29.831731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{4e1f3563-1249-4ab0-8db2-b2dd442112fc}
+2019-04-30 22:36:29.832730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{4b3fbb8d-4b82-4d38-9c34-5d16c431e967}
+2019-04-30 22:36:29.832730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{a6317f1a-5a4a-40a0-9cfb-6165cff38d62}
+2019-04-30 22:36:29.833730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{3ebd3779-e4eb-4d1f-a187-93b1ea9529a3}
+2019-04-30 22:36:29.834730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{f398a351-2715-4589-891d-2a3373166857}
+2019-04-30 22:36:29.835730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{b7e73af9-767d-4f63-adaa-bb0b3167852d}
+2019-04-30 22:36:29.836730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{4f6bebb3-b07e-4f65-93bd-eb45c6c6a885}
+2019-04-30 22:36:29.837730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{88f07773-439d-436f-b950-a1b8a62c6ae8}
+2019-04-30 22:36:29.838730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{5b3d2fd0-d84a-446a-bf1e-d632b2b44b14}
+2019-04-30 22:36:29.839731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{7bb6c635-21e0-41dd-b69e-8fbd99b6c077}
+2019-04-30 22:36:29.839731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{67bf5c58-0f02-4221-b72e-adfd59cd96d4}
+2019-04-30 22:36:29.840730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{6626cf47-ac44-4e7f-bb21-d635f3d272dd}
+2019-04-30 22:36:29.841731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{915d992e-8658-404e-af61-64cfe7566672}
+2019-04-30 22:36:29.842730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{867d00ca-6de1-4939-b0a1-2d28726e0814}
+2019-04-30 22:36:29.843730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{4ef2c33e-3074-4244-88d2-ce94abc44de5}
+2019-04-30 22:36:29.843730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model	{fcabfb92-d5b4-4afe-9f7c-8bcb61ce1888}
+2019-04-30 22:36:29.844730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{f01a4976-46c8-4a9a-8886-d24a45a3dd1a}
+2019-04-30 22:36:29.845730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{5f88741e-c0f0-438c-ac60-9e5b3c5ba9c6}
+2019-04-30 22:36:29.846732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Glass	{9e0e1b28-6332-4627-b92a-0966bffbc7cf}
+2019-04-30 22:36:29.847732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3f5fd2ec-3d14-4383-ac8e-0ab8edafdfb9}
+2019-04-30 22:36:29.847732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{e720043b-b651-4982-bc02-e892a4a01c9d}
+2019-04-30 22:36:29.848730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{8fe15739-3a38-4b57-b9e4-36a71f703f96}
+2019-04-30 22:36:29.849732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{0dc3ac50-47c7-49e6-a9fe-fbe15e21dc00}
+2019-04-30 22:36:29.850731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{52bf4b8e-7040-4660-b7b6-522bdada842a}
+2019-04-30 22:36:29.851731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{1dad6a56-03bf-4d45-aa14-0ccaf4a2e386}
+2019-04-30 22:36:29.852731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model	{dafc1827-03b9-42e9-a2fb-4985c8dbb91d}
+2019-04-30 22:36:29.853730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{4e7f94f7-8d90-4346-8378-4886bd8e0c47}
+2019-04-30 22:36:29.854730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{cb6671ac-23c1-4d30-8510-6f60fbd7fcf8}
+2019-04-30 22:36:29.855730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{9777a9d5-3611-4ca2-b0be-9ac8eeb5e30e}
+2019-04-30 22:36:29.855730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{aa017480-b7d9-44b5-898f-9d33fcf4a7e0}
+2019-04-30 22:36:29.856730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{45ba6d1c-7f34-4bf1-8846-75192b0e541c}
+2019-04-30 22:36:29.857730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{19d23636-476a-4c28-b2d2-ac7e33a25a0e}
+2019-04-30 22:36:29.857730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{30ca2da6-4f99-42b0-ac68-63ad80430420}
+2019-04-30 22:36:29.858731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{0ac9bbfa-505c-4e66-a2ee-70c49c87da51}
+2019-04-30 22:36:29.859730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{5ee39c12-ee00-488b-9359-a9c88f3d8b4f}
+2019-04-30 22:36:29.860730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Lights	{bf1896bf-50a3-4ae5-b132-3f71150c99b4}
+2019-04-30 22:36:29.861730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{416fc5e9-8d06-49fd-af8a-fc794356dc41}
+2019-04-30 22:36:29.861730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{dbde5700-48ad-4528-b7d9-0ecb18c21473}
+2019-04-30 22:36:29.862731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{9a3dac6e-2476-402d-b4bb-dddbcad607bf}
+2019-04-30 22:36:29.863731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{79da45de-2ccb-4d9b-8740-e817b951408f}
+2019-04-30 22:36:29.864730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{1e463dbd-3514-4c23-8e1e-91ecdbd1817e}
+2019-04-30 22:36:29.865732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{b8463a30-9310-4b2a-9ced-598d07591da7}
+2019-04-30 22:36:29.866731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{2640934f-776a-4560-a93b-9ea7c01712fd}
+2019-04-30 22:36:29.867731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{ff2fbe87-da6e-436d-8681-9bb1b270fd4b}
+2019-04-30 22:36:29.867731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{34a0f08e-3fd8-46c3-91ff-fb912427c690}
+2019-04-30 22:36:29.868731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{03368fa0-f41f-427e-acd1-2b5820e9243c}
+2019-04-30 22:36:29.869731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{aacc493f-35da-4446-9a34-182b298121dc}
+2019-04-30 22:36:29.870730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{699ca0d9-50f7-4195-81ae-f9d7178a2ab3}
+2019-04-30 22:36:29.871731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{eb084c25-0ba8-46f8-af6c-807a96da9805}
+2019-04-30 22:36:29.872730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e5986c02-9261-4eb6-92a1-7bfa764aabac}
+2019-04-30 22:36:29.873731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{78f8001b-92a5-4b2b-b219-0f9a402cdb41}
+2019-04-30 22:36:29.874731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e5e0721e-4be9-4a8e-93f0-824e45e51be5}
+2019-04-30 22:36:29.875730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{7fee2924-c1e2-445a-8bec-0b005950bb06}
+2019-04-30 22:36:29.876730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{8ad03dce-65a7-4f75-aa1c-55b562715738}
+2019-04-30 22:36:29.877730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{7826e274-1cd5-4224-9f42-32df4fbe318a}
+2019-04-30 22:36:29.877730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{33c366de-0f84-4d74-be0d-8f36334d0dc6}
+2019-04-30 22:36:29.878731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3de72c32-4341-4613-8409-9f715529b7e0}
+2019-04-30 22:36:29.879730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{b1807924-9638-41df-98a1-132d3c1a0e49}
+2019-04-30 22:36:29.879730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{8a7cc148-8b31-47dc-b0b7-fa8115de3fc4}
+2019-04-30 22:36:29.881731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{d76f0cd4-f4a5-4a79-9ee5-3d4c2c0ab675}
+2019-04-30 22:36:29.881731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3c0daf7b-8b66-4260-8881-b486078c58dd}
+2019-04-30 22:36:29.882731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{378e70e1-c537-4b53-8645-e4a5a9cdc8de}
+2019-04-30 22:36:29.883731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{c5e44e42-7fc6-4d53-a46f-daae62426aec}
+2019-04-30 22:36:29.885730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{20615f63-21f8-4541-8190-4e1d5cdd6692}
+2019-04-30 22:36:29.885730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{c837decc-9f15-4f8a-b1ad-14479b2df31a}
+2019-04-30 22:36:29.886730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{26d6a220-c7ed-4550-bfbe-000a7094aaa0}
+2019-04-30 22:36:29.887732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{ad7ba5da-ff21-40c1-a265-46d165cf7625}
+2019-04-30 22:36:29.888731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{dc13f066-f804-4ba1-8ea9-b86fd4fc28c0}
+2019-04-30 22:36:29.889732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{691d4752-a65a-4e64-b16c-cc6ef6325e81}
+2019-04-30 22:36:29.890732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{f6efdec6-1892-4cfe-b5bc-a42dbedad458}
+2019-04-30 22:36:29.891731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{c103517e-3cf9-4094-b4a5-8df3272d3a3c}
+2019-04-30 22:36:29.892731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3d4aaeeb-f762-4c5c-82a7-e51f61f8d09f}
+2019-04-30 22:36:29.892731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{6cd74cc2-c509-4e81-89c5-1631ca1ea34c}
+2019-04-30 22:36:29.893730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{c57e6f11-b2cf-405a-a921-a60b3a562186}
+2019-04-30 22:36:29.894729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{b0cff91f-89f9-40a1-bf22-1759df069c72}
+2019-04-30 22:36:29.894729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{82ef0dd2-4cb1-45b0-b1df-dc9884fe45d9}
+2019-04-30 22:36:29.895730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{866d1ab6-9c54-4438-aa77-6616939b11db}
+2019-04-30 22:36:29.896730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{a0d82910-e85c-4ed3-907b-ed610ee18758}
+2019-04-30 22:36:29.897731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3a557045-4fe2-45c5-b78b-8f3a81556e7a}
+2019-04-30 22:36:29.898730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3a7b48b1-2f1d-4520-a417-aa9f507d6000}
+2019-04-30 22:36:29.899731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{f6a50739-8dba-4b76-805c-419f734a42d3}
+2019-04-30 22:36:29.900731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{150cda57-db17-4e28-9081-e15c70687838}
+2019-04-30 22:36:29.901730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{295ccdec-8a17-4482-bace-5e4d935981c9}
+2019-04-30 22:36:29.901730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{be33f3fc-a38c-4986-a540-482ec82233d8}
+2019-04-30 22:36:29.902730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{587c8d4f-561c-472f-b172-71e727f2a3bb}
+2019-04-30 22:36:29.903730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{59af13bd-a68b-42f1-9911-4a6cc4229fd2}
+2019-04-30 22:36:29.904730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{5ee940db-f76a-43ff-8225-4940a3549c2c}
+2019-04-30 22:36:29.904730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{761337d1-11fc-4805-ab29-ad6241a9b6b8}
+2019-04-30 22:36:29.905731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{fa419c65-6bde-4b4c-aec4-20371324fb9c}
+2019-04-30 22:36:29.906731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{0b4b13b8-50d8-4164-b639-fa4c27c2ef4b}
+2019-04-30 22:36:29.906731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{91cf75e7-e291-4431-82ad-cc69d2d0c494}
+2019-04-30 22:36:29.907729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{79d886a2-da24-4359-b771-9968dee5ddbf}
+2019-04-30 22:36:29.908730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{c282406e-95cf-4e02-9351-8ec8af2f5340}
+2019-04-30 22:36:29.909730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{4977034c-68f8-4172-b18e-54ffcfc31189}
+2019-04-30 22:36:29.910729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{2b3ab7bf-bf84-46b1-9372-b1a88d12d654}
+2019-04-30 22:36:29.910729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{3520a3e9-46df-4698-8d25-de806b1c7ea8}
+2019-04-30 22:36:29.912730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{9b79fce0-2453-4681-8a52-8e56f00c6724}
+2019-04-30 22:36:29.913731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{50dd3551-f842-4cd6-8db9-1d8bc5ea0e11}
+2019-04-30 22:36:29.914733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{85818ac1-99f5-4ab0-9f8f-89893d332286}
+2019-04-30 22:36:29.914733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{b4fef790-5194-4923-9f11-ee4382fe6220}
+2019-04-30 22:36:29.915730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{d939515d-db7e-4be1-8ee4-5118d417ed68}
+2019-04-30 22:36:29.916730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{bacd8e4f-d339-44f5-a3bb-b502078820a2}
+2019-04-30 22:36:29.917730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{3db2092c-8410-4009-b6e9-fad1e79b3b6f}
+2019-04-30 22:36:29.918730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{0850f1bd-e452-4bfd-a3bd-b7159cdf3050}
+2019-04-30 22:36:29.919731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{1aaf3fa3-19de-4c3e-8e8b-0f90909ee10a}
+2019-04-30 22:36:29.920731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{eaa1c49d-50d2-421a-b575-7852efd9ca43}
+2019-04-30 22:36:29.921731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e97c547e-9dda-48f6-b559-25f7a9d978bd}
+2019-04-30 22:36:29.922732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{aac620b2-ee94-4368-be4f-26c9dabbf095}
+2019-04-30 22:36:29.923732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{a9f70f13-5a3c-4acb-9548-d147c413befa}
+2019-04-30 22:36:29.924730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{aca8830f-f857-43d7-9e31-7ad83622c7d6}
+2019-04-30 22:36:29.925731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{fdb96638-4715-4f5f-a0ec-f8b50f691c73}
+2019-04-30 22:36:29.926731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{39f09540-fc44-4c3d-8f28-15c4a6737f4a}
+2019-04-30 22:36:29.927731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Rear	{cf05aca7-2ce6-40c6-9ce9-5c0fcef48dcf}
+2019-04-30 22:36:29.927731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Interior	{c08d45da-cef0-4bfa-b6a8-41d2c09ac70c}
+2019-04-30 22:36:29.928734:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{9e9ba5ce-5804-4a76-8bb9-19fe9c3405f3}
+2019-04-30 22:36:29.929732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{7520e3b2-7e75-43d9-a17b-513fdfe64089}
+2019-04-30 22:36:29.930731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{bf6613b5-a759-459f-9a7c-ac272111b8ac}
+2019-04-30 22:36:29.931731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			glass_interior_glass_013	{109d925c-f769-486c-8d09-07ebeffd5dfb}
+2019-04-30 22:36:29.933731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			black_a_pillar_black_013	{0a1bfd51-8cd7-497e-9baf-9ce32dec06fe}
+2019-04-30 22:36:29.934733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			misc_a_pillar_misc_013	{931a53d3-60e5-47c6-b226-9844747562c3}
+2019-04-30 22:36:29.935732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			rubber_trim_a_pillar_rubber_trim_013	{1b7f03d0-406c-4c5c-921c-04a9aa9f7c09}
+2019-04-30 22:36:29.936732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			misc_cagerace_misc_013	{d31cda8f-4ffa-49e7-a7d4-a11d3778375b}
+2019-04-30 22:36:29.937731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			window_glassLM_window_013	{e9865ba6-12dd-43b4-8e02-569983bdf515}
+2019-04-30 22:36:29.938732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			window_glassRF_window_013	{d96fff4d-df68-4470-813d-d786433f2958}
+2019-04-30 22:36:29.939731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			window_glassRM_window_013	{d7343071-ff4f-4cd6-8337-581275b179fc}
+2019-04-30 22:36:29.940731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{ea7158d5-f8c5-43bf-819b-07416857df3a}
+2019-04-30 22:36:29.941731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_leather_interior_bump_leather_013	{7cb67556-320b-440c-8fa8-229e60de5147}
+2019-04-30 22:36:29.942733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_plastic3_interior_bump_plastic3_013	{0f9b3697-e27c-470c-b704-f56b3d196d6e}
+2019-04-30 22:36:29.943732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_stitching_interior_bump_stitching_013	{79a3201d-e830-43c4-a9a3-1b591b0b595c}
+2019-04-30 22:36:29.944731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			headliner_interior_headliner_013	{f4d5a343-a1b5-4e07-a087-73babc126524}
+2019-04-30 22:36:29.945731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_interior_leather_013	{fe05e95f-fea7-43af-9df5-2de23ab680f2}
+2019-04-30 22:36:29.945731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_interior_metal_013	{b5f39473-1cae-404f-8b96-19a7d93df597}
+2019-04-30 22:36:29.947730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{e6b40d60-654c-4c47-b0f9-77d4afba0e5a}
+2019-04-30 22:36:29.947730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			reflector_interior_reflector_013	{5e6e1f2a-7031-4237-8620-b9da7e0f61bf}
+2019-04-30 22:36:29.948730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			solid_interior_solid_013	{afd9f228-1e6d-4c38-a81a-18390fc1c7d0}
+2019-04-30 22:36:29.949730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			cloth_seatL_cloth_013	{c3d9eb13-0f42-4494-b25b-794665fbbb65}
+2019-04-30 22:36:29.950730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_seatL_leather_013	{19daed64-1e74-4229-9bdf-672ff41dcdff}
+2019-04-30 22:36:29.951732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_seatL_plastic_013	{b9aea082-0b98-4200-95d4-573cfe07ca46}
+2019-04-30 22:36:29.952731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			cloth_seatR_cloth_013	{ffeb8d85-9a7e-4a0d-9ee2-bcac9fd69346}
+2019-04-30 22:36:29.953730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_seatR_leather_013	{d4e252d0-16ff-450c-b1a9-4b095448555c}
+2019-04-30 22:36:29.953730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_seatR_plastic_013	{19c8e2b0-82af-4f53-8fcf-cb39d95211e3}
+2019-04-30 22:36:29.954730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_steering_wheel_badge_013	{a2bd40db-ec5c-4cdb-ad1c-559d11d4b30f}
+2019-04-30 22:36:29.955730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_leather_steering_wheel_bump_leather_013	{407ba144-aebb-4103-adc7-84a3c0c5fd6f}
+2019-04-30 22:36:29.956730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_plastic_steering_wheel_bump_plastic_013	{36fb7a5c-09c0-47b2-ba32-74d007c8546e}
+2019-04-30 22:36:29.957731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_stitching_steering_wheel_bump_stitching_013	{276340a6-5a39-4b5d-8f2a-507295d9b13b}
+2019-04-30 22:36:29.958731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_steering_wheel_metal_013	{8e994a16-5169-4a16-8574-be13953cc21f}
+2019-04-30 22:36:29.959731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_steering_wheel_plastic_013	{2676057e-b4d4-41c1-8873-5b4b4cea6997}
+2019-04-30 22:36:29.960731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{a41805e4-a999-4b46-b4bb-c521ef88cbab}
+2019-04-30 22:36:29.961731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			black_a_pillar_black_013	{35db485c-f012-46e4-8267-c5a10863e190}
+2019-04-30 22:36:29.962731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			misc_a_pillar_misc_013	{de10093d-6cbe-4dd6-917b-1a25a8a9c531}
+2019-04-30 22:36:29.963732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			rubber_trim_a_pillar_rubber_trim_013	{16ba1fcb-f515-4d5e-8db8-0f217ecd6e6a}
+2019-04-30 22:36:29.964731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			window_glassRF_window_013	{f5d3f163-69d5-44f4-8463-e23099662ac7}
+2019-04-30 22:36:29.965730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_leather_interior_bump_leather_013	{b0e3bd2f-0745-4532-a282-8fb76f7bdbc3}
+2019-04-30 22:36:29.966730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_plastic3_interior_bump_plastic3_013	{551d1378-91d3-494a-8235-64fe7c1599ad}
+2019-04-30 22:36:29.967731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_stitching_interior_bump_stitching_013	{70684447-d710-4c7b-b641-0dcd56af7799}
+2019-04-30 22:36:29.968731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			digital_gauge_interior_digital_gauge_013	{cd2f6200-f9c4-463a-9c12-652900545319}
+2019-04-30 22:36:29.969732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			glass_interior_glass_013	{f0f3d57e-1e62-424c-9610-5c16648dcbde}
+2019-04-30 22:36:29.970732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			headliner_interior_headliner_013	{7a9dbd42-947a-4ba8-b755-4d9fd3c51f3d}
+2019-04-30 22:36:29.971731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_interior_leather_013	{5efd6415-34d4-422a-98fc-b92c84e986e7}
+2019-04-30 22:36:29.972731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_interior_metal_013	{7b7e49c2-c808-4439-83c4-886ed592ebd1}
+2019-04-30 22:36:29.973732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			mottled_interior_mottled_013	{507be72b-19c0-4fc4-beee-168877248a38}
+2019-04-30 22:36:29.974730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{e0d0aee7-d5a6-4a3d-82a6-7bb48d6f85af}
+2019-04-30 22:36:29.975730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			reflector_interior_reflector_013	{e187887d-bac2-4f62-8206-a7751facccaf}
+2019-04-30 22:36:29.976732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			rubber_interior_rubber_013	{a220ec18-c9b0-4482-8dd4-899b155c42a0}
+2019-04-30 22:36:29.977731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			solid_interior_solid_013	{e011f584-b16e-4db0-9833-735e0bf86bab}
+2019-04-30 22:36:29.978731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			chrome_seatL_chrome_013	{bf70191c-7ef6-4b6d-a95c-18f382124488}
+2019-04-30 22:36:29.978731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			cloth_seatL_cloth_013	{719aed49-54cb-4a8c-aeed-ce005da80cd7}
+2019-04-30 22:36:29.979730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_seatL_leather_013	{a6cdbdca-2a5a-451c-801f-99f06fb8ba9b}
+2019-04-30 22:36:29.980730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_seatL_plastic_013	{2d71ae9f-957a-4142-a9e5-4d43d2438a9d}
+2019-04-30 22:36:29.981732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			chrome_seatR_chrome_013	{74cedef4-ed08-4b04-b6cf-28ae2e38c451}
+2019-04-30 22:36:29.982731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			cloth_seatR_cloth_013	{c9255c1b-f4e8-4023-b7de-325fa2defd75}
+2019-04-30 22:36:29.983730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_seatR_leather_013	{2b56d36d-a7dd-4f7f-bd3a-913bc713e25c}
+2019-04-30 22:36:29.984731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_seatR_plastic_013	{1e9479f5-d24e-46c3-a22b-a5444c4d9be6}
+2019-04-30 22:36:29.985731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_leather_steering_wheel_bump_leather_013	{e2296b23-b83b-401c-851e-37ea420ca4b5}
+2019-04-30 22:36:29.986731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_plastic_steering_wheel_bump_plastic_013	{9027d85d-5522-44e4-ae36-e8ffdd997f4b}
+2019-04-30 22:36:29.986731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_stitching_steering_wheel_bump_stitching_013	{e651d768-252d-49b8-87b1-c3bf34e07685}
+2019-04-30 22:36:29.987730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_steering_wheel_metal_013	{c63ab6a1-ee94-4f3e-8a4e-a6c289ba2c6e}
+2019-04-30 22:36:29.988732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_steering_wheel_plastic_013	{dc0737f6-2dbf-41ba-ae11-79024ff8dd1e}
+2019-04-30 22:36:29.989732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			reflector_steering_wheel_reflector_013	{ad233204-6cfb-4fd9-bdfd-ef77732d7403}
+2019-04-30 22:36:29.990732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			headliner_interior_headliner_013	{bc56e93c-010d-4edd-902f-3c502d4668a7}
+2019-04-30 22:36:29.991730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			black_a_pillar_black_013	{5b4c3ec7-4c92-4658-8edb-12cb7a653d65}
+2019-04-30 22:36:29.991730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_leather_interior_bump_leather_013	{dd3ccc2f-b86e-490d-b13c-4eebcd126d18}
+2019-04-30 22:36:29.992731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_stitching_interior_bump_stitching_013	{199c8173-fec3-44c6-88c7-8b3fd04c5e1d}
+2019-04-30 22:36:29.993731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{eb2ab357-b1d1-48a2-b768-9ddb70fe6eb5}
+2019-04-30 22:36:29.994731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			reflector_interior_reflector_013	{2d693a7c-0632-47be-b515-854011fce591}
+2019-04-30 22:36:29.996732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			bump_leather_interior_bump_leather_013	{0d9025de-2ca4-43c6-8394-985ae5aada82}
+2019-04-30 22:36:29.997732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			mirrorMiddle_interior_mirrorMiddle_013	{c86dd2b8-9945-4b28-8fbb-e751e756c9bf}
+2019-04-30 22:36:29.998731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{c0554d39-9c8b-4727-9956-f60c080bf744}
+2019-04-30 22:36:29.999731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			leather_interior_leather_013	{60e38715-9ada-4e10-af14-b378e605e542}
+2019-04-30 22:36:29.999731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_interior_metal_013	{9507077a-6f0b-42d5-a4a7-464073ce5d0d}
+2019-04-30 22:36:30.000731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{dcf170db-04de-4dad-a7cd-980775d7f68c}
+2019-04-30 22:36:30.001731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_steering_wheel_metal_013	{24352b1f-9910-4312-bace-9e70c0ae5069}
+2019-04-30 22:36:30.002731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_steering_wheel_plastic_013	{4b8d897b-6cec-40b9-a729-21e66626bfbd}
+2019-04-30 22:36:30.003731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			metal_interior_metal_013	{86222f1c-2546-4ea5-8fad-4265bf7903ac}
+2019-04-30 22:36:30.004732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{ab85015d-545b-4076-ae3c-390777eb8e24}
+2019-04-30 22:36:30.005729:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			solid_interior_solid_013	{a27f0ce5-6396-4739-92ef-01afb87eca6d}
+2019-04-30 22:36:30.006730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Signs	{355a6fd8-96c5-42c4-92e3-4af1502437fb}
+2019-04-30 22:36:30.007730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{43bc9f78-2b11-46cd-895c-6ca61e2ea406}
+2019-04-30 22:36:30.008731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_steering_wheel_badge_013	{1fa89b37-5aff-41b7-8b25-15aaf76c9149}
+2019-04-30 22:36:30.009730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{739f7f5c-a46c-4242-97c0-681972c5e3cf}
+2019-04-30 22:36:30.010731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{16c75b39-7961-4e66-b150-dec32c4e2ded}
+2019-04-30 22:36:30.011730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{08bf91e2-5994-40d4-945e-ad69ebf6b8e8}
+2019-04-30 22:36:30.012731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{deaa5fd0-32bf-4e49-b887-3d69235bde4b}
+2019-04-30 22:36:30.013732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{3e7badfa-0716-4bad-91d8-439d9c462579}
+2019-04-30 22:36:30.014732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			plastic_interior_plastic_013	{ce802b7f-71d1-4df1-91c2-cbd94ab7cf91}
+2019-04-30 22:36:30.015732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{c2ef3ee9-b2cd-414b-8401-ef3f9ff91b34}
+2019-04-30 22:36:30.016731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_seatL_badge_013	{23f1d5ba-7b18-4315-ab55-5f03045cb23a}
+2019-04-30 22:36:30.017732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_seatR_badge_013	{5ef333c5-37f3-469b-98b1-f792679d34b5}
+2019-04-30 22:36:30.018730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_steering_wheel_badge_013	{907eec3b-d168-4680-9339-41a2024017f5}
+2019-04-30 22:36:30.019732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_seatL_badge_013	{2e17426c-7364-42d9-a598-c7e722364b86}
+2019-04-30 22:36:30.021731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_seatR_badge_013	{d4326b3d-aa5e-4942-9fbb-c755ac9bd11b}
+2019-04-30 22:36:30.022730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			badge_interior_badge_013	{805a7279-b447-4071-be92-38e2b172c6c2}
+2019-04-30 22:36:30.023730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Engine	{aa1f3a06-85a8-49f3-aa8a-db1d145d2d72}
+2019-04-30 22:36:30.024732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{5fb48ddb-673f-4b5b-8c7b-d458a6643636}
+2019-04-30 22:36:30.025732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{56fe18ea-ea88-40dd-bdf4-119941bbe726}
+2019-04-30 22:36:30.026732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{041b7ef7-e46b-4deb-96f1-6b9632b367b3}
+2019-04-30 22:36:30.027732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{cea915e2-e328-4765-b3db-ce409e655888}
+2019-04-30 22:36:30.028731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{d62392e1-0a3c-40ec-8afd-55dd6a238ae2}
+2019-04-30 22:36:30.029731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{436a1ff2-e638-4022-b421-89dbf85b50f2}
+2019-04-30 22:36:30.030732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{20b6a943-f105-4c89-b31a-2beff09ac478}
+2019-04-30 22:36:30.031732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{4c41d08b-8c02-4a38-8e77-5ad7053f63b9}
+2019-04-30 22:36:30.031732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{f67e059a-2d48-4c08-9889-84b75a1a7fc9}
+2019-04-30 22:36:30.032731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{ef335bf6-2746-4271-a017-4adeba7aa03a}
+2019-04-30 22:36:30.033731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{7e5300e2-6db3-48aa-b054-fb588b21a2a7}
+2019-04-30 22:36:30.034731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{15997d62-c8e1-42e1-8fb9-a4fb2593a903}
+2019-04-30 22:36:30.035732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{3f7a0da3-a9ed-41f8-8ddb-615059705602}
+2019-04-30 22:36:30.036730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{4efc8352-1367-4257-9e19-91b3aa3c796e}
+2019-04-30 22:36:30.037731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{05661c24-245d-4274-8e32-11b40b42bbfb}
+2019-04-30 22:36:30.038730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{b678e26b-ee87-4e28-a5ad-083e18c74b78}
+2019-04-30 22:36:30.038730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{037ead03-f095-4ee0-a57d-d8b67fa3c82e}
+2019-04-30 22:36:30.039730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{1c1f61d6-30db-43b1-b2a3-7880a737dc3d}
+2019-04-30 22:36:30.040730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{6412505d-29ab-4534-b749-8ad1102d5491}
+2019-04-30 22:36:30.041732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{1aac05b8-f257-4105-8a85-5f013857b07a}
+2019-04-30 22:36:30.042730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{7e7f6fe7-f176-4d3c-abda-cadffe3e0792}
+2019-04-30 22:36:30.043731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{b80031b2-0466-44f5-bd1f-9ef47e58f7ce}
+2019-04-30 22:36:30.044731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{13ce84f8-d282-4c5d-bbbb-fa7e7b00b33e}
+2019-04-30 22:36:30.045731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{20ade749-8bdb-4ea3-9865-10a94e0e7378}
+2019-04-30 22:36:30.045731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{b7bdcd85-20a0-4a56-88b2-a5b542451e24}
+2019-04-30 22:36:30.047731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{9f953720-b4d2-4569-9d7b-86698167c716}
+2019-04-30 22:36:30.048732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{0dc3a15a-4a1b-48f1-a4d9-627c616dcabf}
+2019-04-30 22:36:30.048732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Left	{473be52b-0ee0-4bc7-b076-3d68e68441be}
+2019-04-30 22:36:30.049731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Right	{60572c5d-1835-4047-bfa3-6eb6304e8bd1}
+2019-04-30 22:36:30.050730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Front	{ae58d0bd-0234-4b3a-8636-acb68b914e0b}
+2019-04-30 22:36:30.051731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		wheel_1	{1e740521-ebbb-4892-88b5-103d4b203843}
+2019-04-30 22:36:30.052731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{b59514e7-3c89-4ba6-8e88-c7eb76f83c2a}
+2019-04-30 22:36:30.052731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{f1b12f48-90b5-40e7-9a2c-05f59376b426}
+2019-04-30 22:36:30.053730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{bca5d7a3-9ab2-4154-a64b-0f4cd02f479e}
+2019-04-30 22:36:30.054730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{d61de0d7-5872-4314-8a6f-5fbfed59d11a}
+2019-04-30 22:36:30.055731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{368339b5-6919-4813-bff2-602eaf7e3dfc}
+2019-04-30 22:36:30.056732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{1b711e7d-ac40-4b76-863a-7685f984555f}
+2019-04-30 22:36:30.057732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{edbe390d-a25b-458a-b8dc-b968e02f42c4}
+2019-04-30 22:36:30.058733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{563720dc-5f4b-478d-9906-5d2aa9045c6e}
+2019-04-30 22:36:30.059730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{4a2cb878-38e3-4078-aa66-883c1a6e7e6c}
+2019-04-30 22:36:30.060732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{1fb6b401-2a3f-43ee-9f72-46db841c04a1}
+2019-04-30 22:36:30.061731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{1e89058f-2016-4572-8e5e-ec3289b9c712}
+2019-04-30 22:36:30.062733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{62723b18-0941-49d1-a138-fb22e740c084}
+2019-04-30 22:36:30.063731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{be87a2d5-0855-4a80-9ea9-6c274afd1c4a}
+2019-04-30 22:36:30.064733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{e7c3caa0-4e72-4d17-80fd-6a80e0aae886}
+2019-04-30 22:36:30.065731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{68b345bd-3e0b-4f43-8ae3-d54ddd2df690}
+2019-04-30 22:36:30.066733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{f2348571-592e-47ee-bfb8-96ddf3fc953f}
+2019-04-30 22:36:30.067732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{7d678cf9-0faa-424d-9d79-892b9086ed69}
+2019-04-30 22:36:30.068730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		wheel_2	{6b21457d-9882-4065-be35-b9452ab04842}
+2019-04-30 22:36:30.069731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{2b57fb19-6060-4c19-ace6-fd13aeaee059}
+2019-04-30 22:36:30.070732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{255e9d88-24fb-4c46-a349-d377b835e30f}
+2019-04-30 22:36:30.071732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{840e5c54-8f05-404d-b0c3-f65d2174aa87}
+2019-04-30 22:36:30.072732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{ac3ff114-745f-4e45-aa21-9427ad583849}
+2019-04-30 22:36:30.073730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{192f2b17-d3a7-4954-9beb-7e45b3de30d4}
+2019-04-30 22:36:30.074731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{1d4bf3b2-fe04-47c5-95cc-d52ddc5d9887}
+2019-04-30 22:36:30.075732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{ec25e397-fcb6-4498-8093-e3d757f56d61}
+2019-04-30 22:36:30.075732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{76cafeee-d0a3-4738-b82c-19ce67423df9}
+2019-04-30 22:36:30.077731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{a230f8ac-7126-4993-8542-fb86f7228ed6}
+2019-04-30 22:36:30.078731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{b7ac9acf-f2cc-4db8-8b3c-b6ee2f8e7e54}
+2019-04-30 22:36:30.079731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{d9c28614-c546-47b3-9698-6e7175aec20c}
+2019-04-30 22:36:30.080732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{cd0b491f-a73b-4348-92eb-ffe2a8666d09}
+2019-04-30 22:36:30.081732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{c167786d-704b-44f8-b505-67e0a0a8846b}
+2019-04-30 22:36:30.082731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{70d8618c-6b7a-489a-b271-9e510a37902c}
+2019-04-30 22:36:30.083731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{f934ed3b-2e8a-48f8-86e8-cfe3302e78d5}
+2019-04-30 22:36:30.084731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{4273147c-90f2-499a-9b24-010c570a9a4f}
+2019-04-30 22:36:30.085731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{8700bbfc-4c2f-46fd-8a0b-f61766509665}
+2019-04-30 22:36:30.086730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		wheel_3	{999019fb-7e88-4cf1-9a66-dc0138f0a3bc}
+2019-04-30 22:36:30.087732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{1da31dfc-099e-4b4e-8055-7a779ac1602e}
+2019-04-30 22:36:30.088732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{1d0763d1-8b85-41a0-84a5-64c50a76ae44}
+2019-04-30 22:36:30.089731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{53d1df2a-39ee-4851-a9c9-553c908505bc}
+2019-04-30 22:36:30.090731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{240cd27f-a0f4-4023-89e6-a1f2fb340478}
+2019-04-30 22:36:30.091731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{e09ab1a0-2ae8-4f36-b868-66cb2910f131}
+2019-04-30 22:36:30.092731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{b759017e-4222-4147-8c63-886b1f42caf2}
+2019-04-30 22:36:30.093731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{a39c1ba0-e5e7-40f7-96cc-1a2cbbd54dfd}
+2019-04-30 22:36:30.094730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{18a0d437-a458-4d6a-88fa-768e9c102d05}
+2019-04-30 22:36:30.095731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{b7e72cb8-6217-4a94-ad44-71d2529479b9}
+2019-04-30 22:36:30.096730:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{938eb010-c4ff-4bf8-b468-bc7189e5e556}
+2019-04-30 22:36:30.097732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{6c3169d2-768d-482d-b15c-bf51b634ad84}
+2019-04-30 22:36:30.098732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{4056b9e2-e60c-401d-8bd9-6d473d9c303e}
+2019-04-30 22:36:30.099732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{5a472b9d-f3f8-4844-ae5c-448082b8ca01}
+2019-04-30 22:36:30.100731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{a478645e-78fb-401d-861f-7d147b1f1bba}
+2019-04-30 22:36:30.101731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{d16d57d7-46da-4c73-a368-64d9f628eea8}
+2019-04-30 22:36:30.102731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{fec1844a-1eb4-4c0a-89d2-9e3f567621b1}
+2019-04-30 22:36:30.103731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{57ad0ec5-15f1-4326-b9eb-9d376be9003a}
+2019-04-30 22:36:30.103731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		wheel_4	{7adc4fc3-c8bf-4d6c-bf04-48fe10025d7b}
+2019-04-30 22:36:30.104731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{e1f4834b-aedc-425b-80c4-b7a6a8938368}
+2019-04-30 22:36:30.105731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{5c6e1464-9cc5-44e1-b246-261b5030fc77}
+2019-04-30 22:36:30.106733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{88c21b23-4ea6-44cc-9a00-6fac2644d042}
+2019-04-30 22:36:30.107732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{42a04885-2aec-4590-a677-41dde2226a51}
+2019-04-30 22:36:30.108732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{a6fbc0d2-18c8-4948-8c36-8b50f00c4ce5}
+2019-04-30 22:36:30.109731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{447ec636-e5cf-4c33-9c92-0a2bbf4e3b37}
+2019-04-30 22:36:30.109731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{76f29666-3798-4ad6-adf3-83e657c5404f}
+2019-04-30 22:36:30.111731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{b23b4639-2cc8-416b-8eba-c23d9604ba33}
+2019-04-30 22:36:30.111731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{4c36a1e1-8df3-43ba-a656-92f031b6247f}
+2019-04-30 22:36:30.113732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{f63dda2a-19e1-4678-b4b5-9b2e126772ed}
+2019-04-30 22:36:30.114733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{2bbba1bd-5e47-497c-9b13-d9191561f1bf}
+2019-04-30 22:36:30.114733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{5f215ab4-b51b-48ee-8abd-6055d41c69ba}
+2019-04-30 22:36:30.115731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{ce5856f2-ecad-44ce-ba0b-87882a54d7c3}
+2019-04-30 22:36:30.116731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{378a4629-b62d-4ea3-b1b6-b177987aaf94}
+2019-04-30 22:36:30.117731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{8271f4e9-d4ce-4aa5-98da-df213728d695}
+2019-04-30 22:36:30.118731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{2cb85d90-2438-495e-ada1-8a4355f47268}
+2019-04-30 22:36:30.118731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     			Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{90575ea4-be09-4e5d-b640-07b4ecb97fe8}
+2019-04-30 22:36:30.119732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	Ground	{55b0da9f-e105-4c27-bdda-6517a011ac15}
+2019-04-30 22:36:30.120731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		GroundTrackVerges	{862d08e4-c16e-4e57-9c96-d3108ca3555c}
+2019-04-30 22:36:30.121732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		GroundTrack	{e632922e-1521-410b-9d51-d6a436eff1b5}
+2019-04-30 22:36:30.122732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		GroundExtents	{b70b75f0-29d9-4de8-b6bf-9090675d1b40}
+2019-04-30 22:36:30.124732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	Pillar	{93b6a28a-7a9f-4ab4-8235-0effd5072637}
+2019-04-30 22:36:30.125732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		defaultobject	{38789117-1924-49a0-b31f-dfc7054064a9}
+2019-04-30 22:36:30.126732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	Pillar	{534f0d2f-9d29-4b7d-b49a-05b3865aeec1}
+2019-04-30 22:36:30.127732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     		defaultobject	{4bbd1730-00a9-42e2-9370-bd6fc4972856}
+2019-04-30 22:36:30.128732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	boundary	{a07e7f98-dd6e-4a64-b64f-b52222b7ccc7}
+2019-04-30 22:36:30.129732:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	boundary	{0fe7f585-c0ee-47f3-ab79-664c7e588371}
+2019-04-30 22:36:30.130731:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	boundary	{b37392a8-ffce-4f39-ab2e-85991379bdcc}
+2019-04-30 22:36:30.131733:      <info>   [RacingGame\RacingGameApp.cpp:476]                     	boundary	{5459f17c-e217-4c38-bd3b-7cc408b08efe}
+2019-04-30 22:36:30.140733:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/startup.wav" playback at 0x2018
+2019-04-30 22:36:30.140733:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/idle.wav" playback at 0x88e0
+2019-04-30 22:36:30.184730:     <trace>   [RacingGame\EngineAudioManager.cpp:351]                Waiting for the stream to end
+2019-04-30 22:36:30.471730:     <trace>   [DSEngineFramework\DSFDirect3D.cpp:172]                DS Engine Framework for Direct3D Resize, width = 3840, height = 2115
+2019-04-30 22:36:31.198270:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/low_on.wav" playback at 0x8b38
+2019-04-30 22:36:31.215272:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/med_on.wav" playback at 0x968
+2019-04-30 22:36:32.744655:     <trace>   [RacingGame\EngineAudioManager.cpp:373]                Stopping audio playback
+2019-04-30 22:36:33.315656:     <trace>   [RacingGame\EngineAudioManager.cpp:319]                Starting audio file "Assets/Audio/high_on.wav" playback at 0x87a4
+2019-04-30 22:38:39.913247:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x84a4 stopped.
+2019-04-30 22:38:39.914249:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x2464 stopped.
+2019-04-30 22:38:39.916247:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x5a44 stopped.
+2019-04-30 22:38:39.917248:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x4398 stopped.
+2019-04-30 22:38:39.918248:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x8464 stopped.
+2019-04-30 22:38:39.920250:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x803c stopped.
+2019-04-30 22:38:39.923248:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x7344 stopped.
+2019-04-30 22:38:39.925248:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x82b8 stopped.
+2019-04-30 22:38:39.926247:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x42b8 stopped.
+2019-04-30 22:38:39.928248:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x7ef0 stopped.
+2019-04-30 22:38:39.930249:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x4638 stopped.

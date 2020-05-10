@@ -1,0 +1,194 @@
+Jam 1: Piecepack
+5 / 5
+ 	 
+	
+Jam 2: Board Game
+5 / 5
+ 	 
+	
+Jam 3: Tiny Toy
+19 / 20
+ 	
+I did not expect this to be a big hit since it kind of punted a lot of the design onto the kids, but just playing the base game you provided they had fun and it ended up being their favorite toy. Some comments from the kids:
+
+(After reading the instructions) "Where's the egg?" (After I pointed out it meant the capsule it came in) "OHHHHH."
+
+"This is a funny game. It would be perfect but there's always a problem you have to fish out." (I asked what the problem with it is.) "I don't know yet."
+
+(After playing for a bit) "The birds keep disappearing and are hard to find, that could be the problem. Also I wish they made them look more like birds."
+
+Completion: 5/5
+Constraints: 5/5
+Risk Taking: 4/5
+Results: 5/5
+
+	
+Jam 4: Proving Grounds
+18 / 20
+ 	
+Completion: 4/5 (a few core features like attacking not implemented)
+
+Constraints: 5/5. Risk Taking: 5/5. Results: 4/5.
+
+	
+Jam 5: Coopetition
+19 / 20
+ 	
+This game mildly went against the constraint: you had players trying to kill the current leader, but there wasn't really much of a co-op element.
+
+	
+Jam 6: Found Objects
+20 / 20
+ 	
+This was a really interesting project: a four-player PvP game where every few seconds there's a first-to-buzz-in auction for a new ship that might be better or worse than your current one. Only thing it's missing is a win condition / scorekeeping, but would be a great one to keep working on as a fun couch-PvP project.
+
+Completion: 5/5
+
+Constraints: 5/5
+
+Risk taking: 5/5
+
+Results: 5/5
+
+	
+Jam 7: New Branch
+16 / 20
+ 	
+Completion: 4/5
+
+Constraints: 5/5
+
+Risk Taking: 3/5
+
+Results: 4/5
+
+Neat ideas, though the non-combat part was still traditional JRPG and the combat was traditional realtime combat. Impressive that you were able to include a boss level, and the audio was fantastic. Main issue was parts that were incomplete: couldn't pick up the weapons enemies dropped, bug in combat that made it not end.
+
+	
+Jam 8: Serious Games
+18 / 20
+ 	
+This was probably the most interesting take in the entire class in terms of high concept, and even without the DID angle (which is a challenging topic even for professional psychologists) has some interesting gameplay potential. The final game did have some missing features (some key stats not shown on screen) and gameplay issues (at its heart it looked like The Sims with far less content - it's a difficult genre to work in if you don't have an EA-sized content team) but on the other hand, the unique "alter" mechanic could probably be used in a number of other genres as well, to interesting effect (see Jason Rohrer's "Chain World" and "One Hour One Life").
+
+Completion: 4/5
+
+Constraints: 5/5
+
+Risk Taking: 5/5
+
+Results: 4/5
+
+	
+Jam 9: Design to Engine
+15 / 20
+ 	
+Completion: 5/5
+
+Constraints: 5/5
+
+Risk Taking: 2/5
+
+Results: 3/5
+
+Tried to go with something heavily inspired by Katamari Damacy... and then a lot of it didn't work that great. Probably because you had to fight the engine every step of the way (based on your post-mortem)... but then, the point of this particular jam was to figure out what the engine is GOOD at so you don't have to fight it, and design a game that's easy to make in the engine... not the other way around. (There is definitely value in the skill of making an engine do things it was never intended to do... but a time-limited game jam is not the ideal place to do that.)
+
+Post Mortems
+ 	 	 
+	
+Post-Mortem 3
+25 / 25
+ 	
+There are a lot of generally useful tips here: make your meetings efficient and allow everyone to give feedback; keep your ability to revise ideas, take a few steps back and go in a new direction; the general principle that "there's no one right way to play" which is applicable to many genres; assemble everything you need (such as materials) beforehand, for efficiency; and that you have to strike a balance when looking at other things that have been done in that space because research is important but can also lead to tunnel vision.
+Completion: 5/5
+Reflection: 10/10
+Generality: 10/10
+
+	
+Post Mortem 5
+25 / 25
+ 	
+Good post-mortem - the importance of continual playtesting throughout the development cycle (as opposed to waiting until the end) will be critical next year, and really in any game dev project. This is why we do rapid prototyping: to have something playtest-able as early as possible.
+
+You did mention in the post-mortem that you had no time for external playtesting and no time for game balance. Since you can divide up the time however you want, you can't really say that you "had no time" as if this was something done to you from an external source. Rather, you (as a team) chose to spend your time giving other things higher priority. This can be perfectly okay - it's a waste of time to balance a game before the core mechanics have solidified, for example (because any change to the core gameplay is going to undo all of your balance work anyway). But make that a deliberate choice and own it (not "we had no time to balance" but "we chose to treat balance as a low priority in favor of getting compelling core gameplay") - it's a much better approach when presenting your work.
+
+	
+Post Mortem 6
+25 / 25
+ 	
+Some useful points raised. Doing team playtests during shared dev time. Importance of scheduling early when the team is busy and has a hard time meeting. Importance of working closely when you have lots of code dependencies between teammates.
+
+You did mention you had unused art assets and could have planned better to use more of them, but I'd say this isn't necessary: use what you need, including other things just for the sake of including them when they aren't necessary from a design perspective would just bloat the game and take it further from its core.
+
+Completion: 5/5
+
+Reflection: 10/10
+
+Generality: 10/10
+
+	
+Post Mortem 7
+25 / 25
+ 	
+Great post-mortem. Things to take with you into future projects:
+
+* Communication when team is away (e.g. GDC) to keep everyone on the same page is very useful.
+
+* Detailed designs also useful for keeping everyone on the same page - if there isn't one, make one, or have one teammate serve the role as key vision holder (including documenting it for everyone else, and securing buy-in from the team).
+
+* There's a tradeoff between re-using existing code (can save time, but also costs time to understand) vs. writing your own (also called "NIH Syndrome" which stands for Not Invented Here - meaning people tend to really REALLY not like to use code or assets they didn't make within their team, even if it would be more efficient).
+
+* When you scope the project, leave time for QA and playtesting/iteration.
+
+	
+Post Mortem 8
+25 / 25
+ 	
+I liked the point about everyone coming to the first meeting with a pitch already in mind - this method would work well in a lot of cases (forcing people to think about it on their own to prevent "groupthink" from happening too easily) and is worth repeating in future projects here and also in Capstone.
+
+I was surprised you had a single person doing all the merges, as I mentioned in class - this could go very well or very poorly depending on how it's handled.
+
+I liked that you spent a good amount of time (about 25% of total project time!) up front doing thorough research, and using that research to inform your ideas. This is EXACTLY what the research component of Capstone is for, and it's something a lot of teams struggle with, so if you can take that general approach into next year you'll all have a much easier time with that part of the project.
+
+Just a note that you mentioned in your post-mortem that you had three meetings that were all productive but didn't give any details beyond that. What did you do to make them productive, and why did you say that? Think about it, since "how to run an effective meeting" is an important skill that a lot of people struggle with.
+
+	
+Post Mortem 9
+25 / 25
+ 	 
+Achievements
+ 	 	 
+	
+Achievement 1: Student Survey
+5 / 5
+ 	 
+	
+Achievement 2: Travel Jam
+- / 10
+ 	 
+	
+Achievement 3: Two Hour Jam
+15 / 15
+ 	
+Wow. I... may take this one to CrashTest. I didn't entirely understand the specifics when presented in class, and some of the rules would need re-wording for clarity, but the core idea here is solid. Love the mechanic that everyone can put in or take out tokens, that there can be discussion about what is and isn't in there, and players can challenge other players' identities.
+
+My first thought was that this really hurts the player who goes first, since they essentially reveal their side to the second player (either there's one blue or one yellow token in the envelope, so the second player knows EXACTLY what the first player did), but the first player could just as easily put the "wrong" color in the envelope to misdirect... plus there's some additional interactions between agents and normal players that make an immediate accusation risky, so I think that's fine. I'm guessing this may play slightly better with some modifications (perhaps give players a random set of tokens at the beginning, so a player could claim "I'm not on yellow team, I was just dealt all yellow cards, it's not my fault!" and maybe differentiating the teams to introduce some slight asymmetry) but this is a really interesting start for a game that I think you could all take a bit further if you wanted to, for fun.
+
+Final Project
+ 	 	 
+	
+Final 1: Team and Task List
+25 / 25
+ 	 
+	
+Final 2: Refine and Polish
+50 / 50
+ 	 
+	
+Final 3: Contest Ready
+68 / 75
+ 	
+Game: You took on an impressively large scope, making an entire action/JRPG engine, and made a really nice demo to show the basic mechanics and even a boss fight. Some of the in-game contest-ready stuff wasn't there - you did have some difficulty stage-gating to prevent a player from getting in over their head, but no in-game tutorial, and the controls were definitely not standard for this kind of game (you used WASD + JK + Space, most PC games prefer ZXC + arrow keys). 20/25
+
+Materials: screenshots and text description are okay. Video was passable, although a little longer than it had to be - each part that it showed was a little repetitive, maybe a couple of seconds longer than it had to be to get its point across. 23/25
+
+Post Mortem: a reasonable assessment of what happened. Big takeaway was that the project was overscoped and the team didn't prioritize tasks very well, due to no one stepping up and being a Producer/PM - so now you all see the importance of that role on a dev team, and I hope for Capstone you'll keep this in mind and make sure one teammate is an advocate for the schedule and scope of the project. 25/25

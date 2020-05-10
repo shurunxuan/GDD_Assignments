@@ -1,0 +1,140 @@
+2019-05-01 17:47:08.037225:   <warning>   [DSEngineFramework\DSFDirect3D.cpp:147]                Direct3D Device & Context not initialized. Skipping resize.
+2019-05-01 17:47:08.041227:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x6354 created.
+2019-05-01 17:47:08.041227:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x5dc0 created.
+2019-05-01 17:47:08.042227:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x51f0 created.
+2019-05-01 17:47:08.046230:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:42]                  XAudio2 Engine Created.
+2019-05-01 17:47:08.042227:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x63e0 created.
+2019-05-01 17:47:08.046230:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x60ac created.
+2019-05-01 17:47:08.044226:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x570c created.
+2019-05-01 17:47:08.042227:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x6060 created.
+2019-05-01 17:47:08.046230:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x41c created.
+2019-05-01 17:47:08.046230:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0xe90 created.
+2019-05-01 17:47:08.045229:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x50d4 created.
+2019-05-01 17:47:08.046230:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x5f04 created.
+2019-05-01 17:47:08.084226:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:51]                  Mastering voice created with 2 channel(s), sample rate 48000Hz.
+2019-05-01 17:47:08.085228:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:33]                  DS Engine Framework for XAudio2 Initialized!
+2019-05-01 17:47:08.085228:     <trace>   [DSEngineSystem\DSSAudio.cpp:22]                       DS Engine Audio System Initialized!
+2019-05-01 17:47:08.210226:     <trace>   [DSEngineFramework\DSFDirect3D.cpp:135]                DS Engine Framework for Direct3D Initialized!
+2019-05-01 17:47:08.211226:     <trace>   [DSEngineSystem\DSSRendering.cpp:35]                   DS Engine Rendering System Initialized!
+2019-05-01 17:47:08.215226:     <trace>   [DSEngineFramework\DSFXInput.cpp:33]                   DS Engine Framework for XInput Initialized!
+2019-05-01 17:47:08.216228:     <trace>   [DSEngineFramework\DSFRawInput.cpp:42]                 DS Engine Framework for Raw Input Initialized!
+2019-05-01 17:47:08.217229:     <trace>   [DSEngineSystem\DSSInput.cpp:26]                       DS Engine Input System Initialized!
+2019-05-01 17:47:08.218254:     <trace>   [DSEngineSystem\DSEngineApp.cpp:54]                    High precision joystick input polling thread working at 0x5dc0
+2019-05-01 17:47:08.219227:     <trace>   [DSEngineSystem\DSEngineApp.cpp:81]                    DSEngineApp Init
+2019-05-01 17:47:08.479231:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.514227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.551226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.589228:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.628226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.665226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.704226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.740230:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.777227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.811230:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.846227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.887227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.924225:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:08.961227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.001225:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.041227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.080227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.119227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.157228:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.198225:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.237227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.273228:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.307226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.346227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.383226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.421226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.461226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.496226:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.529227:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.566228:      <info>   [Tower\BrickDeck.cpp:255]                              Loaded Normal Map "Assets/Textures/wall.tif"
+2019-05-01 17:47:09.575226:   <warning>   [Tower\TaskCardGenerator.cpp:425]                      Non-uniform scale will result in unexpected result!
+2019-05-01 17:47:09.583228:   <warning>   [Tower\TaskCardGenerator.cpp:425]                      Non-uniform scale will result in unexpected result!
+2019-05-01 17:47:09.584227:      <info>   [Tower\TowerGameApp.cpp:135]                           Scene Structure:
+2019-05-01 17:47:09.585228:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.585228:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.586229:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.587228:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.588225:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.589228:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.589228:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.590229:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.591228:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.592227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.593227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.594227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.594227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.596226:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.596226:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.597226:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.598227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.599227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.600227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.601227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.601227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.602228:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.603227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.603227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.604227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.605227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.606228:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.606228:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.607228:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.608228:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.609227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.610227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.611227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.612227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.613247:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.614250:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.615247:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.616226:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.617227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.617227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.618229:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.619227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.620226:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.620226:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.621229:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.622226:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.623227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.624227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.625227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.626227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.626227:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.627226:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.628226:      <info>   [Tower\TowerGameApp.cpp:169]                           	cuber.obj
+2019-05-01 17:47:09.629227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Box
+2019-05-01 17:47:09.630227:      <info>   [Tower\TowerGameApp.cpp:169]                           	TowerBase
+2019-05-01 17:47:09.631227:      <info>   [Tower\TowerGameApp.cpp:169]                           		defaultobject
+2019-05-01 17:47:09.632227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Decks
+2019-05-01 17:47:09.632227:      <info>   [Tower\TowerGameApp.cpp:169]                           			TaskDeck
+2019-05-01 17:47:09.633227:      <info>   [Tower\TowerGameApp.cpp:169]                           		Board
+2019-05-01 17:47:09.634227:      <info>   [Tower\TowerGameApp.cpp:169]                           			Colum_0
+2019-05-01 17:47:09.634227:      <info>   [Tower\TowerGameApp.cpp:169]                           			Colum_1
+2019-05-01 17:47:09.635228:      <info>   [Tower\TowerGameApp.cpp:169]                           			Colum_2
+2019-05-01 17:47:09.636227:      <info>   [Tower\TowerGameApp.cpp:169]                           		PlayerHand
+2019-05-01 17:47:09.637227:      <info>   [Tower\TowerGameApp.cpp:169]                           			BrickPosition_0
+2019-05-01 17:47:09.637227:      <info>   [Tower\TowerGameApp.cpp:169]                           			BrickPosition_1
+2019-05-01 17:47:09.638225:      <info>   [Tower\TowerGameApp.cpp:169]                           			BrickPosition_2
+2019-05-01 17:47:09.639227:      <info>   [Tower\TowerGameApp.cpp:169]                           			cuber.obj
+2019-05-01 17:47:09.639227:      <info>   [Tower\TowerGameApp.cpp:169]                           				Box
+2019-05-01 17:47:09.640226:      <info>   [Tower\TowerGameApp.cpp:169]                           			cuber.obj
+2019-05-01 17:47:09.641226:      <info>   [Tower\TowerGameApp.cpp:169]                           				Box
+2019-05-01 17:47:09.642227:      <info>   [Tower\TowerGameApp.cpp:169]                           			cuber.obj
+2019-05-01 17:47:09.643226:      <info>   [Tower\TowerGameApp.cpp:169]                           				Box
+2019-05-01 17:47:12.956666:     <trace>   [DSEngineFramework\DSFDirect3D.cpp:172]                DS Engine Framework for Direct3D Resize, width = 3840, height = 2115
+2019-05-01 17:49:44.506446:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x50d4 stopped.
+2019-05-01 17:49:44.506446:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x41c stopped.
+2019-05-01 17:49:44.508449:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x6354 stopped.
+2019-05-01 17:49:44.509449:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x5dc0 stopped.
+2019-05-01 17:49:44.511448:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x6060 stopped.
+2019-05-01 17:49:44.513446:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x51f0 stopped.
+2019-05-01 17:49:44.514449:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x63e0 stopped.
+2019-05-01 17:49:44.516446:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x570c stopped.
+2019-05-01 17:49:44.518448:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x5f04 stopped.
+2019-05-01 17:49:44.520445:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x60ac stopped.
+2019-05-01 17:49:44.521445:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0xe90 stopped.

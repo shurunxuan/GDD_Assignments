@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="PPAddPS.hlsl" />
+    <FxCompile Include="PPDarkCornerPS.hlsl" />
+    <FxCompile Include="PPGaussianBlurUPS.hlsl" />
+    <FxCompile Include="PPGaussianBlurVPS.hlsl" />
+    <FxCompile Include="PPMultiplyPS.hlsl" />
+    <FxCompile Include="PPSSAOPS.hlsl" />
+    <FxCompile Include="PPSSAOVS.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CameraController.cpp" />
+    <ClCompile Include="EngineAudioManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PPDarkCornerMaterial.cpp" />
+    <ClCompile Include="PPGaussianBlurMaterial.cpp" />
+    <ClCompile Include="SSAOMaterial.cpp" />
+    <ClCompile Include="TestGameApp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CameraController.h" />
+    <ClInclude Include="EngineAudioManager.h" />
+    <ClInclude Include="PPDarkCornerMaterial.h" />
+    <ClInclude Include="PPGaussianBlurMaterial.h" />
+    <ClInclude Include="SSAOMaterial.h" />
+    <ClInclude Include="TestGameApp.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="PPDarkCornerPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="PPGaussianBlurUPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="PPGaussianBlurVPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="PPAddPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

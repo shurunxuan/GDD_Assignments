@@ -1,0 +1,33 @@
+[submodule "IGME.603.01-GameplayandPrototyping/Jam5Coopetition-CubeThrowBack"]
+	path = IGME.603.01-GameplayandPrototyping/Jam5Coopetition-CubeThrowBack
+	url = https://github.com/shurunxuan/CubeThrowBack
+[submodule "IGME.603.01-GameplayandPrototyping/Jam8SeriousGames-Alter"]
+	path = IGME.603.01-GameplayandPrototyping/Jam8SeriousGames-Alter
+	url = https://github.com/Herm20/Jam8_SeriousGame
+[submodule "IGME.603.01-GameplayandPrototyping/FinalProject-HunterLife"]
+	path = IGME.603.01-GameplayandPrototyping/FinalProject-HunterLife
+	url = https://github.com/zhangeric1994/final-project
+[submodule "IGME.603.01-GameplayandPrototyping/Jam7Genre-JRPG"]
+	path = IGME.603.01-GameplayandPrototyping/Jam7Genre-JRPG
+	url = https://github.com/shurunxuan/JAM-7
+[submodule "IGME.603.01-GameplayandPrototyping/Jam6FoundObjects-QuickDraw"]
+	path = IGME.603.01-GameplayandPrototyping/Jam6FoundObjects-QuickDraw
+	url = https://github.com/shurunxuan/603_Jam6.git
+[submodule "IGME.601.01-GameDevelopmentProcesses/IGME-601-2181-Team-C"]
+	path = IGME.601.01-GameDevelopmentProcesses/IGME-601-2181-Team-C
+	url = https://github.com/shurunxuan/IGME-601-2181-Team-C
+[submodule "IGME.760.01-AIforGameplay/Repo"]
+	path = IGME.760.01-AIforGameplay/Repo
+	url = https://github.com/shurunxuan/IGME_760_01_Team3_Project
+[submodule "IGME.750.01-GameEngineDesignandDev/Repo"]
+	path = IGME.750.01-GameEngineDesignandDev/Repo
+	url = https://github.com/shurunxuan/IGME750-DSEngine.git
+[submodule "IGME.740.01-GameGraphicsProgramming/Repo"]
+	path = IGME.740.01-GameGraphicsProgramming/Repo
+	url = https://github.com/shurunxuan/IGME740_Assignment/
+[submodule "IGME.797.01-AdvancedTopicsinGameDev/Submissions/FinalProject/VolumetricCloudRendering"]
+	path = IGME.797.01-AdvancedTopicsinGameDev/Submissions/FinalProject/VolumetricCloudRendering
+	url = https://github.com/riverluara/VolumetricCloudRendering.git
+[submodule "IGME.799.08-IndependentStudy/src/CosmosEngine"]
+	path = IGME.799.08-IndependentStudy/src/CosmosEngine
+	url = https://github.com/shurunxuan/CosmosEngine.git

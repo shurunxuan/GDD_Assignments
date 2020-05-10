@@ -1,0 +1,534 @@
+2019-04-29 15:05:15.326708:   <warning>   [DSEngineFramework\DSFDirect3D.cpp:147]                Direct3D Device & Context not initialized. Skipping resize.
+2019-04-29 15:05:15.329709:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x5160 created.
+2019-04-29 15:05:15.329709:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x446c created.
+2019-04-29 15:05:15.329709:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0xf90 created.
+2019-04-29 15:05:15.331711:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x1ad4 created.
+2019-04-29 15:05:15.333709:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x3e0c created.
+2019-04-29 15:05:15.331711:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x294 created.
+2019-04-29 15:05:15.332712:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x1600 created.
+2019-04-29 15:05:15.331711:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x1050 created.
+2019-04-29 15:05:15.332712:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x43a4 created.
+2019-04-29 15:05:15.333709:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x5740 created.
+2019-04-29 15:05:15.333709:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:11]               New worker thread at 0x53f0 created.
+2019-04-29 15:05:15.333709:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:42]                  XAudio2 Engine Created.
+2019-04-29 15:05:15.384708:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:51]                  Mastering voice created with 2 channel(s), sample rate 48000Hz.
+2019-04-29 15:05:15.384708:     <trace>   [DSEngineFramework\DSFXAudio2.cpp:33]                  DS Engine Framework for XAudio2 Initialized!
+2019-04-29 15:05:15.385709:     <trace>   [DSEngineSystem\DSSAudio.cpp:22]                       DS Engine Audio System Initialized!
+2019-04-29 15:05:15.480708:     <trace>   [DSEngineFramework\DSFDirect3D.cpp:135]                DS Engine Framework for Direct3D Initialized!
+2019-04-29 15:05:15.481708:     <trace>   [DSEngineSystem\DSSRendering.cpp:35]                   DS Engine Rendering System Initialized!
+2019-04-29 15:05:15.486708:     <trace>   [DSEngineFramework\DSFXInput.cpp:33]                   DS Engine Framework for XInput Initialized!
+2019-04-29 15:05:15.487708:     <trace>   [DSEngineFramework\DSFRawInput.cpp:42]                 DS Engine Framework for Raw Input Initialized!
+2019-04-29 15:05:15.488709:     <trace>   [DSEngineSystem\DSSInput.cpp:26]                       DS Engine Input System Initialized!
+2019-04-29 15:05:15.488709:     <trace>   [DSEngineSystem\DSEngineApp.cpp:54]                    High precision joystick input polling thread working at 0x5160
+2019-04-29 15:05:15.492707:     <trace>   [DSEngineSystem\DSEngineApp.cpp:81]                    DSEngineApp Init
+2019-04-29 15:05:15.492707:     <trace>   [DSEngineTestProject\TestGameApp.cpp:39]               TestGameApp Init
+2019-04-29 15:05:16.053708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-29 15:05:16.062708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/idle.wav opened.
+2019-04-29 15:05:16.062708:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-29 15:05:16.063710:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-29 15:05:16.071708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/startup.wav opened.
+2019-04-29 15:05:16.072710:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-29 15:05:16.073710:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-29 15:05:16.080708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/high_on.wav opened.
+2019-04-29 15:05:16.081710:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-29 15:05:16.082708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-29 15:05:16.089707:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/med_on.wav opened.
+2019-04-29 15:05:16.090708:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-29 15:05:16.091708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-29 15:05:16.099708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/low_on.wav opened.
+2019-04-29 15:05:16.099708:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-29 15:05:16.100708:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:52]                   DS Engine Framework for FFmpeg Initialized!
+2019-04-29 15:05:16.108707:     <trace>   [DSEngineFramework\DSFFFmpeg.cpp:110]                  File Assets/Audio/maxRPM.wav opened.
+2019-04-29 15:05:16.108707:      <info>   [DSEngineFramework\DSFFFmpeg.cpp:111]                  Decoding with PCM signed 16-bit little-endian
+2019-04-29 15:05:16.143708:   <warning>   [DSEngineTestProject\TestGameApp.cpp:425]              Non-uniform scale will result in unexpected result!
+2019-04-29 15:05:16.144708:      <info>   [DSEngineTestProject\TestGameApp.cpp:322]              Scene Structure:
+2019-04-29 15:05:16.145709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              	AventHolder	{2a4013c6-fa9b-489a-b68c-d7c1fa0b101c}
+2019-04-29 15:05:16.145709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		Avent.obj	{37d56f74-bac6-44fc-91ed-ef76ce02d04b}
+2019-04-29 15:05:16.146708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Aventador	{751ef97a-7b54-437e-b240-10df68dff5f9}
+2019-04-29 15:05:16.147709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{1e4e55a1-601a-4741-8f7c-8784f19d125a}
+2019-04-29 15:05:16.147709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{1cd42220-2b13-4516-b4df-b0ef7b83a3c1}
+2019-04-29 15:05:16.148709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{5accbe3f-5893-44b8-bcf2-d0e23683faf6}
+2019-04-29 15:05:16.149709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{404028b0-0392-4444-bfea-7e711b3ea482}
+2019-04-29 15:05:16.150710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{8a4771e1-c139-4bd1-92f7-75677bfe74a6}
+2019-04-29 15:05:16.151709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{a931b3b9-c9e5-40dc-a6be-4115f66d8e82}
+2019-04-29 15:05:16.151709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{c9e48f17-90c2-4c60-8453-535ec7d864e2}
+2019-04-29 15:05:16.152709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{8a078e60-44eb-4e80-a048-816b91bd2a95}
+2019-04-29 15:05:16.152709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{388cba4d-a428-4ea2-8360-6d3e86a9c840}
+2019-04-29 15:05:16.153710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{71c365bd-2fb8-4e2d-8c93-410bf572a88e}
+2019-04-29 15:05:16.154709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{cc194a2b-c5db-4cf7-915b-bd3f42a19e3c}
+2019-04-29 15:05:16.155710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{1a774d9d-2429-4ccd-a9bf-a6b1393e5a91}
+2019-04-29 15:05:16.155710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{e28879a6-dc62-43b1-8557-988e655e80b3}
+2019-04-29 15:05:16.156709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{ef57b6cf-7a53-4806-962b-5d7dae4957ba}
+2019-04-29 15:05:16.157708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4ab52666-fe2e-4754-961b-1b19985f3f42}
+2019-04-29 15:05:16.158708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{f7de2c8b-db37-4313-bfeb-d7f98dd5aafc}
+2019-04-29 15:05:16.158708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{a480e609-cb17-4150-988f-d92ee91a0af2}
+2019-04-29 15:05:16.159709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{c8af8418-f38f-45dc-9749-1d99951aeef3}
+2019-04-29 15:05:16.160709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{86652169-1839-4958-a3e9-d0c1db7d532b}
+2019-04-29 15:05:16.161709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{5acf90fb-457a-4823-8e28-c5039f31fdb4}
+2019-04-29 15:05:16.162708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{299007b0-92ea-4be6-8ae5-6cbce5ca3660}
+2019-04-29 15:05:16.162708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{8112cecd-1414-471b-ae9e-97d3fbc11739}
+2019-04-29 15:05:16.163708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4d9fa02a-ec2d-4c6e-9799-831331212ed8}
+2019-04-29 15:05:16.164709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{e16070f0-cfe1-422f-8dbc-d4af8a5e6395}
+2019-04-29 15:05:16.165709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{3604812e-286b-4373-8be3-0b35fc41466d}
+2019-04-29 15:05:16.166708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{88e0f9da-b420-47ac-b099-5acd87f92587}
+2019-04-29 15:05:16.167709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{fa51a67a-86a4-4067-bd1f-5a5a8bc49050}
+2019-04-29 15:05:16.167709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{cac18374-0ec4-4133-83ce-ce6b387096cf}
+2019-04-29 15:05:16.168709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{4402a281-057d-4a86-92d4-9d0479b3c0c0}
+2019-04-29 15:05:16.169708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{d7a2c044-9977-4163-9c0e-bcbcb91aee82}
+2019-04-29 15:05:16.169708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{792e14d6-12ee-4f95-9d9f-9b08e546472f}
+2019-04-29 15:05:16.170709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{86ba1b4b-da4d-4517-a227-649720fdfff6}
+2019-04-29 15:05:16.171709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e2c5f4b1-054e-416b-8a8a-262c036b980d}
+2019-04-29 15:05:16.172710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{87df7096-75d7-470d-97e6-b4e504747fa5}
+2019-04-29 15:05:16.172710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{590dce56-f788-4190-bf2b-46b0341be4d5}
+2019-04-29 15:05:16.173709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{41068f10-7b66-4965-a203-d4ec306f5376}
+2019-04-29 15:05:16.174708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e5151d0e-572a-4fc1-9fcf-81656b36199a}
+2019-04-29 15:05:16.175709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{26cf3ed3-cba8-4878-af81-b44108b3648c}
+2019-04-29 15:05:16.175709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{9df8eda6-0008-45aa-bccc-2c46a3d82731}
+2019-04-29 15:05:16.176709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{f87c65be-6d38-40cb-b5c3-0443e8d9353f}
+2019-04-29 15:05:16.177709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model	{180dd0c4-c7fc-4f73-967d-23b0c03fc2c9}
+2019-04-29 15:05:16.178708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model	{16bb49c1-c35f-48a1-bb0b-d526affc0147}
+2019-04-29 15:05:16.178708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{4aea35fb-f1c1-444d-8560-7d8c3103ad1b}
+2019-04-29 15:05:16.179708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{2b309e38-c16f-46fa-b657-634ccb9f5464}
+2019-04-29 15:05:16.180708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{0f2c6cbc-10b2-4171-93de-3cd986d14d1f}
+2019-04-29 15:05:16.180708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{4e2d1b21-f324-4afb-97a4-484b56ac2cd7}
+2019-04-29 15:05:16.181709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{25b0b7b1-4393-4579-a4c9-c18a33fe3f31}
+2019-04-29 15:05:16.182710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{8e642dc8-9476-4e59-bf63-2e2b58d6f06b}
+2019-04-29 15:05:16.182710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{f5dc927e-b9a8-47a2-a9e5-faa84d495f9c}
+2019-04-29 15:05:16.184709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh261_032Group1_032Lamborghini_Aventador1_032Model	{989c66a7-65eb-4779-81f2-bf1b893d3fc4}
+2019-04-29 15:05:16.184709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{4fe6daa5-309b-4e9d-b67e-2b59faabf5f8}
+2019-04-29 15:05:16.185710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{deb4281d-1374-4c05-93ab-786a2f9da01f}
+2019-04-29 15:05:16.186710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{8b057540-eb7e-4be3-be28-f15537a60d55}
+2019-04-29 15:05:16.186710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{58d126c6-f38c-4f3e-8260-3fdb5e8408bb}
+2019-04-29 15:05:16.187708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{320ef2b3-bfd4-41b0-ba6e-bb316d433951}
+2019-04-29 15:05:16.188710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{98d04e54-615d-4ef3-88e1-f6873e023623}
+2019-04-29 15:05:16.189710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{00c8d329-d238-4eb0-9b75-736faf2208d3}
+2019-04-29 15:05:16.189710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{d1e304d6-f179-4e41-b913-9d5436333498}
+2019-04-29 15:05:16.190708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{500592bf-2809-4c89-ab04-65b0283dfb13}
+2019-04-29 15:05:16.191708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{fa50c5b0-db34-435c-8e3e-4affcdc71ed7}
+2019-04-29 15:05:16.192709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{7ef9a77a-f605-492d-a20b-fb10f00312fb}
+2019-04-29 15:05:16.192709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{ee10e700-591e-4da9-9ebb-d2cde3bfe879}
+2019-04-29 15:05:16.193708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{21dd887b-dea1-45e0-aa09-71ed8608d106}
+2019-04-29 15:05:16.194708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{49f6ecce-5786-4ec7-97bb-9723218a521e}
+2019-04-29 15:05:16.195708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{30b89c82-8fc6-4053-8484-8047dd824c1d}
+2019-04-29 15:05:16.196708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{2a604705-843b-4d56-ac5f-4461e199ee04}
+2019-04-29 15:05:16.197708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{baa71303-de1b-4cd8-9c51-e5e11135c96d}
+2019-04-29 15:05:16.198708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{533ec619-e7e8-4811-9bb2-33e912fc83cb}
+2019-04-29 15:05:16.199708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{9bd54d6b-574a-4bc3-9765-a4558f2f9da8}
+2019-04-29 15:05:16.200708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{92cc555a-9e25-4bbc-a542-611a58c2257d}
+2019-04-29 15:05:16.201708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model	{b81de19e-578a-411b-8ac9-49dc468e2c60}
+2019-04-29 15:05:16.201708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{2dee2462-29a0-4e97-b30a-fcead0d45a64}
+2019-04-29 15:05:16.202708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{641ab502-40ba-4617-a151-9d3a230f3b03}
+2019-04-29 15:05:16.203709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{ccc9c6e0-c6eb-45cc-a1c7-5027c56e61bf}
+2019-04-29 15:05:16.204708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{885056eb-0a30-494c-aa6e-16d466a3f98a}
+2019-04-29 15:05:16.205708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{a6c8890b-1a55-4215-bac3-140526e5c18e}
+2019-04-29 15:05:16.206708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{92efc2c4-5d77-4abd-9dce-693a975471a6}
+2019-04-29 15:05:16.207710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model	{b95e41df-cabf-479c-9932-ea6cd08ea19c}
+2019-04-29 15:05:16.207710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model	{9b8c2353-b8dd-45c7-892b-15c11ebac6ec}
+2019-04-29 15:05:16.208708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model	{c57eaf4b-1f9a-4431-8d5e-5bb454f88664}
+2019-04-29 15:05:16.209710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model	{54ffc2ff-8a44-438f-9ef8-07b1dc5304cf}
+2019-04-29 15:05:16.209710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{32ae57c4-295d-47b5-a5a5-90b9a04b4ff1}
+2019-04-29 15:05:16.210708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model	{78d05003-aec5-49c7-b4ce-44f9836a5966}
+2019-04-29 15:05:16.211708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model	{e86b224f-5cd1-4322-acf0-8d2b6cd2ab68}
+2019-04-29 15:05:16.211708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{b3982584-bcf5-4b1a-b317-abb2d824bc5d}
+2019-04-29 15:05:16.212708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{89a5d3fe-a683-4c80-917c-09db7b003267}
+2019-04-29 15:05:16.213708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{44544325-e302-437f-b737-09ddf0b68603}
+2019-04-29 15:05:16.213708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{73a72f28-beee-42aa-905c-b03042dc610c}
+2019-04-29 15:05:16.214709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{908c5ddf-14d0-47b7-a9ea-bd00ad6799e5}
+2019-04-29 15:05:16.215709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{c471b573-8aed-464e-ad9b-e9bf29be4c70}
+2019-04-29 15:05:16.215709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{87661404-e64a-4afc-95bb-079320e21e27}
+2019-04-29 15:05:16.216708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{fb70aaf7-533a-47c7-99b6-8cd4b745ebc1}
+2019-04-29 15:05:16.217708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{02c43807-1b95-4d36-a604-a65ddd5086e4}
+2019-04-29 15:05:16.217708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{1e3558b3-daf4-4449-94eb-6dcf22461d3a}
+2019-04-29 15:05:16.218708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{a516fdd8-d303-452c-b8d0-6fc7eda91f36}
+2019-04-29 15:05:16.219708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model	{ab0add61-21ad-4513-9e35-316abc6e1b82}
+2019-04-29 15:05:16.219708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model	{08d1f866-42bd-46ef-95b4-c02c7495121a}
+2019-04-29 15:05:16.220710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model	{fa17da63-a374-4d90-a84c-7c503651321b}
+2019-04-29 15:05:16.221709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{6c5b8146-7c90-4895-aa3e-2a5cc71b0306}
+2019-04-29 15:05:16.221709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model	{cba212ab-6324-44ae-b3a5-70348f827ab3}
+2019-04-29 15:05:16.222709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{7ca39eb7-d15e-4a2d-b775-8e4cf909205b}
+2019-04-29 15:05:16.223708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{b590310c-ce1e-43a2-a55b-18034fe4fe4f}
+2019-04-29 15:05:16.224708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{ed62aac3-d74e-4d30-abd5-d3a1fb7e29a3}
+2019-04-29 15:05:16.224708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{310f6f7b-57c0-4c27-95f4-c1ffd97c7ce7}
+2019-04-29 15:05:16.225709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{719f1a17-e2d7-41e0-8579-e26ca3cb768e}
+2019-04-29 15:05:16.226708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{aeece336-015b-4237-9f15-e9532a9c9814}
+2019-04-29 15:05:16.227710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{ccb14869-3079-461e-b90e-764f2b0694fa}
+2019-04-29 15:05:16.227710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{8b704bb2-f74e-4c3d-9f20-eaff03bcee31}
+2019-04-29 15:05:16.228709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{096f4acc-cfdb-4c80-bbcb-e9db36d17179}
+2019-04-29 15:05:16.229709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{b89953e6-a457-489a-b18d-9f002ee2ff86}
+2019-04-29 15:05:16.229709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{2f2e3997-7a9a-4a1d-b34c-1c508bdda1c7}
+2019-04-29 15:05:16.230708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{eab9c525-d99a-4f8f-9b8c-082be35bab1b}
+2019-04-29 15:05:16.231709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{4daec344-9b08-491a-81f0-879065ffcb14}
+2019-04-29 15:05:16.232710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model	{96399b3d-b66d-436c-81cd-fed212912a20}
+2019-04-29 15:05:16.233709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{8a1e17f9-7e23-4d6c-9b34-c5982bfa5069}
+2019-04-29 15:05:16.233709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{1e8da193-fba8-40c2-9bfd-1b172cf33131}
+2019-04-29 15:05:16.234709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{459877cf-86cb-48c1-9f8d-1690f8587729}
+2019-04-29 15:05:16.235710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{796afb9b-3610-4fd7-a719-5fbb8dd17d16}
+2019-04-29 15:05:16.235710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{5148bf7a-fa8b-44b8-b75b-93d9782a9844}
+2019-04-29 15:05:16.236709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{88c20383-9db6-4e92-bb00-4bae8cf72539}
+2019-04-29 15:05:16.237709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{2a9a59b5-b44d-438e-a44b-f802a2815704}
+2019-04-29 15:05:16.238710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{a2be2f00-0cc2-4013-8266-52031012fa3c}
+2019-04-29 15:05:16.238710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{5e0c226d-eccc-4fcd-85f9-06c86f71bcbb}
+2019-04-29 15:05:16.239709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{16fbbb0e-2383-4bda-a788-227b4eff5e0c}
+2019-04-29 15:05:16.240708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{df0ceacd-208b-44c9-a52c-cf4f49d11ddc}
+2019-04-29 15:05:16.240708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{bfb2b9af-c352-46f0-a20c-8232d4d47cc5}
+2019-04-29 15:05:16.241708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{bb924bcb-c31c-4ae6-a3b9-600a7cf4237a}
+2019-04-29 15:05:16.242708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{d6c45eb3-ec27-44e4-a3df-9ffd62826f92}
+2019-04-29 15:05:16.242708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{4d5de4b8-655f-44d7-bd7d-2a870fc6d97a}
+2019-04-29 15:05:16.243709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{07b11565-e631-4e83-af5d-9c1ff4934bb2}
+2019-04-29 15:05:16.244709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{f6b9dd1e-81da-42d7-ae7e-9ec5833e4c1b}
+2019-04-29 15:05:16.245710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{26f36727-0304-4f44-bf9f-6c461bac3d7f}
+2019-04-29 15:05:16.246709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{e512f908-0e53-48fe-88b6-d5ed65c801a7}
+2019-04-29 15:05:16.247710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{cf63c3da-26fc-496f-9b8a-fbedabfc8f82}
+2019-04-29 15:05:16.247710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{dfdd5a00-7456-4727-9b11-9cfbaed08944}
+2019-04-29 15:05:16.248711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{585e60da-da49-4199-bce0-c1b1abb9cb72}
+2019-04-29 15:05:16.249708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{0f854819-c216-4621-9037-2e5176932d90}
+2019-04-29 15:05:16.250711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{3d489dbf-eed7-4e15-b997-ed0431e57597}
+2019-04-29 15:05:16.251709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{a7ff1bff-6803-4493-88eb-22b9027c761a}
+2019-04-29 15:05:16.252708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{9d73cc96-0028-40f7-95d6-cb3f1cfaf569}
+2019-04-29 15:05:16.253708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{589bf1c3-36c1-4c17-977b-564657b0489e}
+2019-04-29 15:05:16.254708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{d94d1278-c0bb-4ec2-a409-3f762ce9193b}
+2019-04-29 15:05:16.255708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{80438a2a-1508-4b33-92ba-3f0ab1ff1942}
+2019-04-29 15:05:16.255708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{d90f1e07-5342-4980-9d29-4f159d5d0283}
+2019-04-29 15:05:16.256709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{7685dd7d-39ac-48b6-894f-b3fc0239279f}
+2019-04-29 15:05:16.257709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{4a5b0bd1-d3c1-448c-a203-6cef02e1ef68}
+2019-04-29 15:05:16.258708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{fa680d31-6671-48df-ba4e-3e0935914692}
+2019-04-29 15:05:16.259708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{8c8e8131-b889-4b70-804f-01d95e42c2dd}
+2019-04-29 15:05:16.259708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{693b0dec-e036-430d-9273-17c27b6a0326}
+2019-04-29 15:05:16.260708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model	{b80354e4-4c2f-4359-a9b1-7ae661fa1925}
+2019-04-29 15:05:16.261709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{20348ef6-6970-486d-8faa-19e69ff0bf4f}
+2019-04-29 15:05:16.262709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model	{74f76af5-e2f9-4f37-be8c-2056d942d83e}
+2019-04-29 15:05:16.262709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{7c1d942e-cfe2-4ef4-851b-a979f168738d}
+2019-04-29 15:05:16.263709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model	{93a2fa49-e615-4ddf-adab-09c52e4646a2}
+2019-04-29 15:05:16.264708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model	{0c2d7913-af3d-4e64-b548-c489c226d8e2}
+2019-04-29 15:05:16.264708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model	{23e1dbed-00c2-4de2-b099-5e881ef5951a}
+2019-04-29 15:05:16.265709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model	{6c5d631f-f087-4b04-bdaf-a69eaf0c579c}
+2019-04-29 15:05:16.266710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{8788d042-83ee-44ab-b660-4f2d275df42b}
+2019-04-29 15:05:16.266710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{d79c3585-2199-4a9b-8bde-9aadd45375de}
+2019-04-29 15:05:16.267710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model	{78daf3d5-bb37-4ea0-b215-96dc1ba92443}
+2019-04-29 15:05:16.268708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{f551696d-d7a8-4976-a5dd-cfc07f7c160e}
+2019-04-29 15:05:16.268708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{00ae98ed-9863-41aa-8ebb-dc9cc9ac82c0}
+2019-04-29 15:05:16.269708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model	{4c118b17-9a2c-4ecd-93d4-ea750534d532}
+2019-04-29 15:05:16.270710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{7d3cdce1-f3f8-4f5c-869b-df683ad0eec3}
+2019-04-29 15:05:16.270710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{b6d49209-c81d-4de2-bb09-e535cc246260}
+2019-04-29 15:05:16.271709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model	{53f80a14-9e83-4cf0-9db7-1a56a94f806d}
+2019-04-29 15:05:16.272709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{093fd258-f6d9-447d-855f-a240c54869dc}
+2019-04-29 15:05:16.272709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{f78f7cdc-fc3a-4fad-9716-ef689eecee8b}
+2019-04-29 15:05:16.273708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Glass	{34efb97d-fe4c-4e88-ae3a-ca856995fc6e}
+2019-04-29 15:05:16.274708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{bcbb0f30-abac-4df9-8af2-eee94693ec9f}
+2019-04-29 15:05:16.274708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{74dfec24-0ae1-47ab-89fe-af753f28b482}
+2019-04-29 15:05:16.275708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{2aa8901a-d317-41ec-8d7d-0cc4d089e3dd}
+2019-04-29 15:05:16.276709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{092b4f56-6c6a-4649-8205-b2e5953c7420}
+2019-04-29 15:05:16.276709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{aef6fcc2-5f84-4f89-a0ac-35334acfd0e5}
+2019-04-29 15:05:16.277707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model	{e1a81c6f-c9dc-4b84-b7c6-62942fdd8111}
+2019-04-29 15:05:16.278708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model	{5c64da6d-9e3b-402c-903d-5786b0061445}
+2019-04-29 15:05:16.278708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{0c954466-a005-4292-b758-f6021369bca6}
+2019-04-29 15:05:16.279708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{404c24e1-54a6-43ad-ad1a-a42ea93b248f}
+2019-04-29 15:05:16.280708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{b8f6443a-6a24-4145-872b-3d5c1dd4a854}
+2019-04-29 15:05:16.280708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{32cbac0e-182c-48a9-a598-db590f2c4546}
+2019-04-29 15:05:16.281709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{f5677c5c-3b0b-4d15-95b4-3b6a3027e645}
+2019-04-29 15:05:16.282707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{0c12e949-1174-4bfa-a3db-624c8b3aa8f4}
+2019-04-29 15:05:16.282707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model	{1d67c765-7c11-4114-9a2a-c00682f40dc1}
+2019-04-29 15:05:16.283709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model	{af0faf37-2404-42e4-8114-d5eb317ae579}
+2019-04-29 15:05:16.284708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3cbedd3d-c69e-4983-9e07-9d5acd4c0f8e}
+2019-04-29 15:05:16.284708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Lights	{1770b8b5-3f68-4923-855a-a109b87b3d93}
+2019-04-29 15:05:16.285707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{425e386e-5a4e-499a-93fc-381852d21d6d}
+2019-04-29 15:05:16.286708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{6fef16d4-5867-43d1-8d38-f905222a12cf}
+2019-04-29 15:05:16.286708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{07574b38-3f7f-4832-82a7-7a8f7e97fae3}
+2019-04-29 15:05:16.287708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e6936b63-7ae9-439a-b181-9f5ee42ebea2}
+2019-04-29 15:05:16.288709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{960c49cc-bf9d-48c0-8801-9f281d5142ad}
+2019-04-29 15:05:16.288709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{a169ad31-12e5-4adb-ab61-7418dcf2db3a}
+2019-04-29 15:05:16.289708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{1f8743af-6c75-48f3-917c-f4cc8a8bb1a1}
+2019-04-29 15:05:16.290708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{31f16a81-9b92-4cbf-b2fc-c3017d870e71}
+2019-04-29 15:05:16.290708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{458363f0-c485-4365-8956-cbf01905ddc9}
+2019-04-29 15:05:16.291707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{ac23dc0e-1abc-4600-ba97-9b8e2b594fa0}
+2019-04-29 15:05:16.292708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{443b9684-c482-4cd4-95a0-83a65a156c15}
+2019-04-29 15:05:16.292708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{2b94b98d-8503-493a-9a9f-e26ff5977e65}
+2019-04-29 15:05:16.293708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{f510d1fd-e0f9-4abf-b64e-f3dc1e629dab}
+2019-04-29 15:05:16.294707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{766e35d6-65f0-42b6-a5d8-3bec5893b14c}
+2019-04-29 15:05:16.294707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{247a4d58-15ea-4377-b351-02f8b80cc85d}
+2019-04-29 15:05:16.295708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{eca91024-4a6b-4217-a57e-f3c935a81579}
+2019-04-29 15:05:16.296708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{d9e0ad8a-4f55-4a6e-a0f8-4e67c3f7e553}
+2019-04-29 15:05:16.296708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{53d3b625-66ef-43f8-847a-17e09c299bdd}
+2019-04-29 15:05:16.297707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{e55e04e7-584f-47f4-9ef4-eaf7d95d5a4d}
+2019-04-29 15:05:16.298709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{0454a2e7-c4fd-4ff9-8c79-674e460a7c15}
+2019-04-29 15:05:16.298709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{987b249f-fd5d-45a8-bbcc-d98f44a2fe54}
+2019-04-29 15:05:16.299709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{bd8ef8b5-d2e4-4253-a57e-ec880ea7decb}
+2019-04-29 15:05:16.300708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{b723a8f3-8c10-4c71-a554-c9e178019370}
+2019-04-29 15:05:16.300708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{6a06eb69-a7df-429f-8b8e-526fc7a5efcb}
+2019-04-29 15:05:16.301707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{76ff0176-66f4-4555-84f4-cda9515af283}
+2019-04-29 15:05:16.302709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{336ba4c2-1b64-47b3-b82a-e19ef38c443a}
+2019-04-29 15:05:16.302709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{fc77247c-f9e3-4c60-89f0-289d889431da}
+2019-04-29 15:05:16.303709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{36d59d97-3ca2-4b20-8c2d-d04cf9a34543}
+2019-04-29 15:05:16.304707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{a854da1f-5457-4fe0-b802-c2820ea0bb52}
+2019-04-29 15:05:16.304707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{1d79d1ce-7759-457b-aebb-e5d2801cbc03}
+2019-04-29 15:05:16.305708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{710788b2-0e17-4850-860a-46f522126a65}
+2019-04-29 15:05:16.306709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{4717f353-c0a3-4435-9076-a54ee4be4a7c}
+2019-04-29 15:05:16.306709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{90123d1f-5360-45d1-971b-31a23dc7ddbf}
+2019-04-29 15:05:16.307709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{14aa82bd-e21b-4b64-90d7-d72f685102a0}
+2019-04-29 15:05:16.308709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{85108477-1a3e-4d2f-bc9e-f4c0591869fb}
+2019-04-29 15:05:16.308709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{bb8a97f3-14c8-41bc-9492-3eb712a6b09d}
+2019-04-29 15:05:16.309708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{19ed7c10-ef8b-414e-832e-a865b6843ca1}
+2019-04-29 15:05:16.310708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{7c5bebc9-cc39-4c69-9089-18fc310e6cec}
+2019-04-29 15:05:16.310708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{a9e50783-0e26-40ae-95d8-328c0121c6b7}
+2019-04-29 15:05:16.311708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{e7e72601-7f6f-43d5-be47-650fad4fe739}
+2019-04-29 15:05:16.312708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{8120e259-dd55-49c9-981a-fd695d5e6057}
+2019-04-29 15:05:16.312708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{1e108481-19f3-43ee-8042-ed8fcb3962f9}
+2019-04-29 15:05:16.313708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{b382ecbe-3354-4ad2-b4e0-3af3918590ec}
+2019-04-29 15:05:16.314708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{ea63360c-8d3c-47ba-9165-4ab2dc43065e}
+2019-04-29 15:05:16.314708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{4eaaf7b0-3834-44b3-88d4-644192dc3317}
+2019-04-29 15:05:16.315708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{3fcef13d-52a5-46ec-a749-e01425d8e740}
+2019-04-29 15:05:16.316708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model	{703dc239-ed18-4a62-bea6-d492aa5162df}
+2019-04-29 15:05:16.316708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{4f416737-03c4-4e0a-b488-233653065f30}
+2019-04-29 15:05:16.317708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{47601405-f9ed-4f18-902e-5ccf55ec2143}
+2019-04-29 15:05:16.317708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{2db3d1ec-367d-458f-b68e-16f1412232c4}
+2019-04-29 15:05:16.318707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{29fdbea8-f772-4209-8a14-1605b1bfa3e3}
+2019-04-29 15:05:16.319709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{6713a9c5-b716-40cc-a417-ec13c1b6e0ec}
+2019-04-29 15:05:16.319709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{039be90d-ef0a-44df-8e1a-1f500a722cff}
+2019-04-29 15:05:16.320709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{d2405e8b-7122-467f-9428-6767153b6cc6}
+2019-04-29 15:05:16.321707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{5aa28a12-cda3-43d4-a999-9308247addfd}
+2019-04-29 15:05:16.321707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{68f7bd9b-b9f0-47ab-a0cd-6befa314faff}
+2019-04-29 15:05:16.322708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{354011ac-e2da-40e4-8bb5-f4671d63f5c0}
+2019-04-29 15:05:16.323709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{72a91350-8527-424a-8d77-1cd9a9097749}
+2019-04-29 15:05:16.323709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{c4945976-0f5d-4983-ade8-50bd244339b6}
+2019-04-29 15:05:16.324709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{5392c514-5956-43c1-9fbe-a9af134dab45}
+2019-04-29 15:05:16.325707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{98451fa8-adc8-4787-bf3d-15683d0d9543}
+2019-04-29 15:05:16.325707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{72d44705-75eb-4bd8-a783-2f02c0650d33}
+2019-04-29 15:05:16.326707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{d1f3090a-4155-4b08-8dc3-7f750d72f299}
+2019-04-29 15:05:16.327708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{244f84ce-b8c8-4093-8edd-140c2fca2a6e}
+2019-04-29 15:05:16.327708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{6442963f-6a88-466b-ba59-b872ef728dc9}
+2019-04-29 15:05:16.328707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{28246685-8528-478e-93f5-2c3055736387}
+2019-04-29 15:05:16.329708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{0903ede0-8442-4cbf-b8fc-0a6c4ea0ceab}
+2019-04-29 15:05:16.329708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{178c3943-389d-4863-8329-7030d9a75547}
+2019-04-29 15:05:16.330707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{c84e088c-fce3-4cc0-98ca-5ec94d7bc48f}
+2019-04-29 15:05:16.331708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{8acaaf16-7205-492d-b238-331b30883405}
+2019-04-29 15:05:16.331708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{fd81fce3-e318-473d-a2ab-e52bbdf11858}
+2019-04-29 15:05:16.332708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{bf7555ee-f6a2-420b-958e-f1856b041f2f}
+2019-04-29 15:05:16.333709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{6c445d97-ea24-4888-881c-be56a7f2d4ef}
+2019-04-29 15:05:16.333709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{bf191258-23e0-4976-9916-2b6f51e20502}
+2019-04-29 15:05:16.334709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{372d801a-b48a-42d2-ab3c-cfac818818a1}
+2019-04-29 15:05:16.335709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model	{5dcb89d5-0da8-4c09-860a-beec314b249c}
+2019-04-29 15:05:16.335709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Rear	{bb333062-a727-4932-bed8-632ea6864256}
+2019-04-29 15:05:16.336709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Interior	{934e20a0-f7c6-45df-861f-5572df021775}
+2019-04-29 15:05:16.337709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{81fbe1ea-4c97-4835-8266-08f5068e3414}
+2019-04-29 15:05:16.337709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{81bc08a1-efd3-4454-bd5d-999980b1d55a}
+2019-04-29 15:05:16.338709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{0bcfa3d7-e111-435c-8da5-08e888155d8e}
+2019-04-29 15:05:16.339708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			glass_interior_glass_013	{6a3a82eb-1792-40fe-9dfa-56398dd969d7}
+2019-04-29 15:05:16.339708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			black_a_pillar_black_013	{27530652-e9c2-4f8c-b616-415abe61a35a}
+2019-04-29 15:05:16.340709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			misc_a_pillar_misc_013	{1080843b-aa26-4188-8bf7-1e486c162dc7}
+2019-04-29 15:05:16.341708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			rubber_trim_a_pillar_rubber_trim_013	{d48b04fd-bef2-4e26-9a00-68a6e7e77924}
+2019-04-29 15:05:16.341708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			misc_cagerace_misc_013	{15f05289-4600-43c6-be54-18ea6032fcc2}
+2019-04-29 15:05:16.342708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			window_glassLM_window_013	{d967b3d3-1d54-404f-a68d-1f3766ec60d6}
+2019-04-29 15:05:16.343708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			window_glassRF_window_013	{5e8b3119-725c-4511-a237-b7646d820b09}
+2019-04-29 15:05:16.344708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			window_glassRM_window_013	{9055e735-a911-434d-a1d1-1be9ad6aa446}
+2019-04-29 15:05:16.344708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{5c5411e2-cefe-442d-ab46-3458c6b5718f}
+2019-04-29 15:05:16.345708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_leather_interior_bump_leather_013	{aa008af9-89d7-418b-98da-18e92d0def02}
+2019-04-29 15:05:16.346708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_plastic3_interior_bump_plastic3_013	{901e2e7e-ab8a-46f4-a8b4-fee9cdfc0329}
+2019-04-29 15:05:16.346708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_stitching_interior_bump_stitching_013	{292ddd35-8eef-4845-afc7-adfb456b0532}
+2019-04-29 15:05:16.347708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			headliner_interior_headliner_013	{1b662cbe-905e-4aa5-8259-7ff609c70dbc}
+2019-04-29 15:05:16.348708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_interior_leather_013	{57f129cc-2920-4467-90f5-9a87969eaafa}
+2019-04-29 15:05:16.348708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_interior_metal_013	{c8ba8fe5-6350-46cb-92db-eac2452835ff}
+2019-04-29 15:05:16.349708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{9d125fd0-8c14-4ad1-828e-f64d7f767f6d}
+2019-04-29 15:05:16.350708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			reflector_interior_reflector_013	{9cc348fa-df3d-4514-b378-3d96e40b906c}
+2019-04-29 15:05:16.350708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			solid_interior_solid_013	{9759aa13-f959-4123-bdd3-b5bc7d65144c}
+2019-04-29 15:05:16.351707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			cloth_seatL_cloth_013	{2a02e048-8c71-46f2-b877-680ae2dc63fe}
+2019-04-29 15:05:16.352708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_seatL_leather_013	{0eac0b3a-eb70-4e54-93d1-e1f036b43f35}
+2019-04-29 15:05:16.352708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_seatL_plastic_013	{7ad05a7a-2d19-445b-b640-4e4f9a8aee42}
+2019-04-29 15:05:16.353707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			cloth_seatR_cloth_013	{db430831-b54d-40c0-99b0-cc30f8d71888}
+2019-04-29 15:05:16.354707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_seatR_leather_013	{bbfaacb8-6a6c-4e1c-b7da-20af5716d2f2}
+2019-04-29 15:05:16.354707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_seatR_plastic_013	{ad6f0791-cbfd-4afc-968c-c2baf5d17f6b}
+2019-04-29 15:05:16.355707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_steering_wheel_badge_013	{523685c6-b99b-4966-8ab2-ef57df6e06b7}
+2019-04-29 15:05:16.356709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_leather_steering_wheel_bump_leather_013	{95398027-bd89-46c6-aa74-21472786c534}
+2019-04-29 15:05:16.356709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_plastic_steering_wheel_bump_plastic_013	{ea4139b2-0935-419c-bc51-c057d4223d79}
+2019-04-29 15:05:16.357711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_stitching_steering_wheel_bump_stitching_013	{e9d945f0-80b6-45fb-b226-2b24b2a849ba}
+2019-04-29 15:05:16.358711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_steering_wheel_metal_013	{5b43dab1-3085-4b65-9d11-d0189a063164}
+2019-04-29 15:05:16.358711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_steering_wheel_plastic_013	{fe78bc94-d368-41af-8795-5761530a72bf}
+2019-04-29 15:05:16.359711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{c2e671f6-325e-4a10-af6d-af72888454d1}
+2019-04-29 15:05:16.360711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			black_a_pillar_black_013	{bef32e3c-c5f2-4b77-a246-e82bded53ad2}
+2019-04-29 15:05:16.360711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			misc_a_pillar_misc_013	{37362784-8534-4d43-bfe7-916c441b3637}
+2019-04-29 15:05:16.361708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			rubber_trim_a_pillar_rubber_trim_013	{de007544-ca84-447d-bce6-faf92e7ce23e}
+2019-04-29 15:05:16.362712:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			window_glassRF_window_013	{6b5a5bfa-9ec0-4e12-9822-f9b4a8684caf}
+2019-04-29 15:05:16.362712:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_leather_interior_bump_leather_013	{31c2f9fa-312c-4894-92f6-43231ce8d02a}
+2019-04-29 15:05:16.363708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_plastic3_interior_bump_plastic3_013	{811f98fe-d2d3-47fb-9b2d-3d772858021b}
+2019-04-29 15:05:16.364707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_stitching_interior_bump_stitching_013	{65bc8c4a-e7b8-47ce-a9e4-b532ce3f6566}
+2019-04-29 15:05:16.364707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			digital_gauge_interior_digital_gauge_013	{b4eea5d0-abca-480f-8f33-4809981f0a22}
+2019-04-29 15:05:16.365710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			glass_interior_glass_013	{3fa9c947-85fc-4531-93a9-3803b0293581}
+2019-04-29 15:05:16.366711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			headliner_interior_headliner_013	{c49a0688-945c-46dc-b9f7-c55656c931e7}
+2019-04-29 15:05:16.366711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_interior_leather_013	{0aa28443-84a4-47a3-8ee3-f84060a9d12f}
+2019-04-29 15:05:16.367711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_interior_metal_013	{3e0ac15a-636b-4f44-9938-1d9c00dc0e22}
+2019-04-29 15:05:16.368711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			mottled_interior_mottled_013	{563aa030-cda0-49ec-927e-ee2ee48938a1}
+2019-04-29 15:05:16.369711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{850a8066-4c21-4366-97dd-bb198ea1fc04}
+2019-04-29 15:05:16.369711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			reflector_interior_reflector_013	{3b935407-5951-49c6-8061-3236aeeb3c2a}
+2019-04-29 15:05:16.370708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			rubber_interior_rubber_013	{cfd11891-38f7-41fa-a192-77afafa8efc3}
+2019-04-29 15:05:16.371708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			solid_interior_solid_013	{af73c30e-4d9e-4b6c-a671-fba9dffbe9f8}
+2019-04-29 15:05:16.372708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			chrome_seatL_chrome_013	{19722047-afa3-4a9c-8ef0-7760ae44e41c}
+2019-04-29 15:05:16.373708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			cloth_seatL_cloth_013	{b3ade598-093f-44a9-bbb8-bbc9c418a4f8}
+2019-04-29 15:05:16.374711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_seatL_leather_013	{6b162bb3-b70f-45c2-aa1d-bd8f1503a13e}
+2019-04-29 15:05:16.374711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_seatL_plastic_013	{2491c0f9-d83f-4d6a-8dff-dc56c2083138}
+2019-04-29 15:05:16.375711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			chrome_seatR_chrome_013	{08f280d5-653a-435f-8ff7-3c53d1ac66f6}
+2019-04-29 15:05:16.376711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			cloth_seatR_cloth_013	{5edbc30a-c0ca-43cd-8eb3-7e7d23b44632}
+2019-04-29 15:05:16.376711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_seatR_leather_013	{cab948c2-b005-409d-b04f-57c96f3cb858}
+2019-04-29 15:05:16.377711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_seatR_plastic_013	{3ad8522a-91ef-465b-a3b4-46399a82c116}
+2019-04-29 15:05:16.378709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_leather_steering_wheel_bump_leather_013	{2cc603e1-f16a-4da4-87c5-8316185c2e04}
+2019-04-29 15:05:16.378709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_plastic_steering_wheel_bump_plastic_013	{122f26b3-2f79-48a9-9c0b-0b51759896db}
+2019-04-29 15:05:16.379708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_stitching_steering_wheel_bump_stitching_013	{3dcdf15a-520c-4c8c-a14e-be7f3c98a284}
+2019-04-29 15:05:16.380708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_steering_wheel_metal_013	{3956ebe7-3902-45eb-9f95-dfcf8755f4cf}
+2019-04-29 15:05:16.381712:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_steering_wheel_plastic_013	{310ddd83-4890-4b75-abd9-d5933f690440}
+2019-04-29 15:05:16.381712:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			reflector_steering_wheel_reflector_013	{d6d64ce0-e2ce-4c5d-89fb-ef4ace4202d5}
+2019-04-29 15:05:16.382711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			headliner_interior_headliner_013	{5d315f33-872c-4db4-8a17-702a6718f6de}
+2019-04-29 15:05:16.383734:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			black_a_pillar_black_013	{3265d7da-4219-4bc5-8170-3e5925ac79a8}
+2019-04-29 15:05:16.383734:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_leather_interior_bump_leather_013	{bd522fcd-ba34-456a-b4f3-9fdff28696ad}
+2019-04-29 15:05:16.384709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_stitching_interior_bump_stitching_013	{72fe37ab-0bbf-4c6d-86f9-b2d4c9553909}
+2019-04-29 15:05:16.385708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{7e2dcf55-8fd6-4f62-88f4-30ae3505cd71}
+2019-04-29 15:05:16.386709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			reflector_interior_reflector_013	{d8499491-f2bd-4b55-ab08-5ba588c37f51}
+2019-04-29 15:05:16.387708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			bump_leather_interior_bump_leather_013	{23bf8087-6acb-4a27-9074-0a91cc90f073}
+2019-04-29 15:05:16.387708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			mirrorMiddle_interior_mirrorMiddle_013	{fb18a391-884b-40b4-a924-95dda5dda77c}
+2019-04-29 15:05:16.388711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{3799e122-fd58-418c-b9f7-1b8176d55f9c}
+2019-04-29 15:05:16.389709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			leather_interior_leather_013	{7d5f0bc2-e162-452d-bbe9-7dbc1017982a}
+2019-04-29 15:05:16.390711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_interior_metal_013	{31cccdb4-fe7e-489f-8daa-20420e9b7369}
+2019-04-29 15:05:16.390711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{32ae1361-aa7f-437d-8236-71abd3a2ceb0}
+2019-04-29 15:05:16.391708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_steering_wheel_metal_013	{942322ce-589c-45d0-97fc-e0cb26fb3149}
+2019-04-29 15:05:16.392709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_steering_wheel_plastic_013	{2ebf05a7-9f16-45ca-9229-b2eb008ce344}
+2019-04-29 15:05:16.393709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			metal_interior_metal_013	{fc3f74bb-d0fa-4167-9fd2-822e6999f063}
+2019-04-29 15:05:16.394709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{afae5123-caca-41f1-b77d-2e70c6004806}
+2019-04-29 15:05:16.395708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			solid_interior_solid_013	{1de160bb-4fcc-49e6-8ba3-5401aed9c105}
+2019-04-29 15:05:16.396709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Signs	{7f11bea7-a675-4dfc-9993-96e955fd45cf}
+2019-04-29 15:05:16.397709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{23c75f99-b800-460f-9470-3a49e5f773bc}
+2019-04-29 15:05:16.398709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_steering_wheel_badge_013	{1f86d820-61bb-4fe7-8054-d931c69e7756}
+2019-04-29 15:05:16.399709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{18ebf5ba-86b6-41ca-b7b3-dddb11ca4c6c}
+2019-04-29 15:05:16.400711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{583d60be-2e0b-47a4-b20e-d2de355f02f0}
+2019-04-29 15:05:16.400711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{96dd9310-5117-4e09-b01b-48d76a4dd9d8}
+2019-04-29 15:05:16.401710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{b1c7a827-4845-43d6-a3d8-56eac3afd4a4}
+2019-04-29 15:05:16.402710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{18e086fd-87ea-4ac4-8cee-7620cef97802}
+2019-04-29 15:05:16.403708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			plastic_interior_plastic_013	{71cd0352-a2b3-4ce2-84e5-f75d455545b2}
+2019-04-29 15:05:16.404711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{fa37507b-4ef1-46c0-9ee1-6e388b32303e}
+2019-04-29 15:05:16.405710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_seatL_badge_013	{3418b2bd-0c98-415a-bf82-2f0666daa572}
+2019-04-29 15:05:16.405710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_seatR_badge_013	{1f2ff4f2-25c9-4c8a-abad-ff30ae3ee86b}
+2019-04-29 15:05:16.406730:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_steering_wheel_badge_013	{89bf9ba3-6416-48fe-8fcd-e5cb65f770e1}
+2019-04-29 15:05:16.407711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_seatL_badge_013	{0dc98c4f-85d6-4e8e-9e17-7c166a038c38}
+2019-04-29 15:05:16.408733:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_seatR_badge_013	{0addd24a-69e3-4429-8ecf-dc494531e8b1}
+2019-04-29 15:05:16.408733:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			badge_interior_badge_013	{0cd289a2-a960-431e-8568-d3a2fc05f423}
+2019-04-29 15:05:16.409708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Engine	{429aa4b2-54b5-4b29-96df-874348d28db0}
+2019-04-29 15:05:16.410711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{6e0a5a09-585a-4769-a6c2-78c3b46893e1}
+2019-04-29 15:05:16.410711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{2a7be78f-6dd3-4799-affa-20efebd77873}
+2019-04-29 15:05:16.411709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{0655b6ae-efdb-4401-abb3-27628932b049}
+2019-04-29 15:05:16.412709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{5d460f13-d0ca-4229-9096-b87c868e8b0a}
+2019-04-29 15:05:16.412709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{1c9d00dc-3d72-4c19-b0ca-b7a9d3eaacc7}
+2019-04-29 15:05:16.413708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{ada1f36a-4c6c-47da-a114-ce0266a9d338}
+2019-04-29 15:05:16.414709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{07970268-b9df-4816-9d6b-93c3f9b13a70}
+2019-04-29 15:05:16.414709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{8df2448d-cc69-4d80-afa8-356b26d58745}
+2019-04-29 15:05:16.415707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{19bd7351-a58a-45e9-ba3b-0c389c74adcf}
+2019-04-29 15:05:16.416708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{ef406301-7a20-4f64-96f6-9d84792d1a7e}
+2019-04-29 15:05:16.416708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{ef51edb1-2352-4f62-af37-0911b59c935e}
+2019-04-29 15:05:16.417708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{90237700-a99c-4c79-920f-8285aacf13fe}
+2019-04-29 15:05:16.418709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{c5087a85-18b8-41cf-9bf2-94374c8c5da4}
+2019-04-29 15:05:16.418709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{a1b5babb-765e-4ffe-b6b5-ab86fd6e20c0}
+2019-04-29 15:05:16.419707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{71fc4939-98e6-4aca-9324-572c8a8f6af0}
+2019-04-29 15:05:16.420707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{e5013cbe-c723-4db3-806f-7b928ad39ba1}
+2019-04-29 15:05:16.420707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{d477f358-5798-43e6-a069-d8ce11d4781e}
+2019-04-29 15:05:16.421707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{968669a2-87a8-47a0-b9ed-7321b167a8fe}
+2019-04-29 15:05:16.422711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{dcaf67e0-fd8b-4e51-8fa2-b558df7c17de}
+2019-04-29 15:05:16.423710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{cf1a9338-8c2b-43ec-a8a9-90ce649bec77}
+2019-04-29 15:05:16.423710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{7971cdde-8e6d-4983-bd53-a748e4ce3af6}
+2019-04-29 15:05:16.424708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{69a8630c-d444-4af6-9c52-aab6eea19366}
+2019-04-29 15:05:16.425710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{48b5c373-835c-4420-9e06-947a30cf818d}
+2019-04-29 15:05:16.426710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{0ac8fafd-6334-4056-86ae-c3c5a8b82a02}
+2019-04-29 15:05:16.427709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{bcff62ad-9ba1-411d-8cae-e7aca627ae47}
+2019-04-29 15:05:16.428708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{8b86de71-4ee3-4dd4-afe8-666650384f0a}
+2019-04-29 15:05:16.429708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model	{cbf42d5d-6e0e-4802-9cc3-44d12edc8f0e}
+2019-04-29 15:05:16.429708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Left	{4ddbae1f-8655-4240-9d6d-d3194c613fa4}
+2019-04-29 15:05:16.430711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Right	{86b95713-e24e-4820-8511-52de1118d248}
+2019-04-29 15:05:16.431708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Front	{f618a77e-ddb7-487d-8ae4-13b00f6a3973}
+2019-04-29 15:05:16.431708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		wheel_1	{8c285bb8-3688-4595-869a-23514a13dc88}
+2019-04-29 15:05:16.432710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{53c5f8de-37b7-4116-83cb-f4e5c591a774}
+2019-04-29 15:05:16.433709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{cd617efd-3395-4298-9b75-a3e7539d5619}
+2019-04-29 15:05:16.433709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{db675a5f-8b67-4b01-b417-7cd005a7084b}
+2019-04-29 15:05:16.434707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{c209905e-8d03-4a3e-8ac4-7744d2afe6ce}
+2019-04-29 15:05:16.435711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{874f82bb-145a-475c-ae86-f709768923c0}
+2019-04-29 15:05:16.436735:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{7c5ad242-d6ea-4a92-a643-117ef9706a42}
+2019-04-29 15:05:16.436735:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{198696cc-8fba-4b48-9e74-6bd0f3f9bbdd}
+2019-04-29 15:05:16.437708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{c6941c63-d23b-4375-93e2-26a971c01fb3}
+2019-04-29 15:05:16.438708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{15ee46fc-a1e1-43a0-9586-25fdb4d409a1}
+2019-04-29 15:05:16.438708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{ce32735e-3c4d-40db-83c4-7e41ffc5dff8}
+2019-04-29 15:05:16.439708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{c8665dd1-f76e-4bd3-a629-a4ddd6ace78b}
+2019-04-29 15:05:16.440711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{e43579fe-5c4b-41ad-bfe6-a7c0ef75b522}
+2019-04-29 15:05:16.440711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{4c789d23-8eac-4c90-930b-87b8607150a7}
+2019-04-29 15:05:16.441711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{170e5946-3543-459c-b817-6eec7a6d6333}
+2019-04-29 15:05:16.442708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{569f871f-2853-4e70-a151-981f88bcd75e}
+2019-04-29 15:05:16.442708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{6edcc233-9039-4825-9c38-0e7e0db931d3}
+2019-04-29 15:05:16.443708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model	{de5522ed-a50e-498d-8c4b-56efb77e47df}
+2019-04-29 15:05:16.444737:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		wheel_2	{9d7178db-d12a-4afc-a4c1-6d64a5ac8528}
+2019-04-29 15:05:16.444737:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{09e420d0-d75a-4c51-998e-bd6cfd24d564}
+2019-04-29 15:05:16.445708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{0ada5a51-d377-414c-95c6-b675230c1589}
+2019-04-29 15:05:16.446711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{3e2c3585-fc4c-4286-b301-088c4ea8dfe8}
+2019-04-29 15:05:16.446711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{2e98b328-2c51-4f26-b3ce-14ac345975d6}
+2019-04-29 15:05:16.447708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{4bc74043-75d6-40c3-a751-7195979b296a}
+2019-04-29 15:05:16.448709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{fbd325f2-3895-4921-bf5d-94b06bc25c9b}
+2019-04-29 15:05:16.448709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{928cb0c7-88d7-4aea-88e3-a127a838342f}
+2019-04-29 15:05:16.449710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{f9ff0343-7b04-40cb-94c9-42a92a96f063}
+2019-04-29 15:05:16.450711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{d2d80264-2495-44f1-8b50-e8f0593ca0e0}
+2019-04-29 15:05:16.450711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{438bec94-3781-4a0c-8ec9-d4526313e4b8}
+2019-04-29 15:05:16.451709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{e0823d10-38d0-48de-85fa-9dd8ff7d6844}
+2019-04-29 15:05:16.452707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{6235858a-1f12-4176-9d33-ebe3344f201e}
+2019-04-29 15:05:16.452707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{bb53944a-3f07-461d-b535-6d1a5e7dd8a7}
+2019-04-29 15:05:16.453708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{52f4a15c-a855-4fb7-a9c6-6ea0003f412d}
+2019-04-29 15:05:16.454708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{875857cb-8c77-4700-ad95-2714821a0f37}
+2019-04-29 15:05:16.455711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{90e61198-48bf-43f1-b2c2-3b369411b1dd}
+2019-04-29 15:05:16.455711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model	{95b68760-9e05-460b-a19d-42dea7bbea47}
+2019-04-29 15:05:16.456711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		wheel_3	{9de8d448-6d22-48b9-a486-641f8718c8e5}
+2019-04-29 15:05:16.457708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{c0daa51c-66ab-4d36-851b-bf70167efcc6}
+2019-04-29 15:05:16.457708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{7ba99de8-80b2-44ab-81ea-dd705e7348d4}
+2019-04-29 15:05:16.458711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{e600577b-11ef-4535-b630-4cc49466f876}
+2019-04-29 15:05:16.459711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{b2118366-b8f9-4159-8f6e-77746934e45d}
+2019-04-29 15:05:16.459711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{ff179ddd-2e69-48e1-8085-2088ed1b4932}
+2019-04-29 15:05:16.460710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{563cee5a-1a27-4695-b825-687d26dd465e}
+2019-04-29 15:05:16.461707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{cfaf5ae0-2422-482b-85b6-a821242db074}
+2019-04-29 15:05:16.461707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{86b42267-c6cc-4e93-90ff-0adc1d715393}
+2019-04-29 15:05:16.462708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{abe3a193-04c4-4ebf-9f90-d47a282f2bcd}
+2019-04-29 15:05:16.463740:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{e1f84ab1-377c-4822-ba9d-365a0b1afede}
+2019-04-29 15:05:16.463740:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{1e488c96-b789-470d-bb18-f0f64431c1cd}
+2019-04-29 15:05:16.464711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{f9ed7fa0-7240-4702-b974-4519ec20fd33}
+2019-04-29 15:05:16.465711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{42642992-a319-4ed4-ad8c-d1e377aa04aa}
+2019-04-29 15:05:16.465711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{3cfeed24-35c6-4a51-b9f7-c0af07e408a8}
+2019-04-29 15:05:16.466707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{13d68ed1-0ffc-4814-a343-b7ba787b0a21}
+2019-04-29 15:05:16.467708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{4ecf11cf-c629-4e72-bc1e-6b9a8c153477}
+2019-04-29 15:05:16.467708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model	{e83153fa-e87b-4eeb-946d-61c797438f42}
+2019-04-29 15:05:16.468708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		wheel_4	{7fa255ef-4166-4f16-aac5-642e1884c012}
+2019-04-29 15:05:16.469711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{953a8153-af1b-45e3-ae00-083c121d4053}
+2019-04-29 15:05:16.469711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{a856a062-40ef-486c-9133-5483983cad4b}
+2019-04-29 15:05:16.470711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{63f3fb52-887e-4ebc-bf59-84713a697246}
+2019-04-29 15:05:16.471711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{8417fb15-e6bc-4974-933b-13545117870b}
+2019-04-29 15:05:16.471711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{9e2c8bf7-40df-4afa-ad49-11c705d27378}
+2019-04-29 15:05:16.472709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{f06a30e6-1de1-49bc-b48a-0d3429ca6033}
+2019-04-29 15:05:16.473711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{1fb87456-29f2-4d36-a0e9-668e7300eed2}
+2019-04-29 15:05:16.473711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{e20f107c-dbf8-46a0-8d42-72efe1f9200c}
+2019-04-29 15:05:16.474709:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{0c4c0191-e3c8-423d-af3f-0819ef23c436}
+2019-04-29 15:05:16.475708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{6eec166a-f8b3-4108-a508-6bc1a2a6e706}
+2019-04-29 15:05:16.475708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{650d0b9d-f094-41db-a03d-611dd1783732}
+2019-04-29 15:05:16.476708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{c8e7188d-e8a5-4033-ae24-d15671593a91}
+2019-04-29 15:05:16.477711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{b3e09aff-70be-41ca-9d6a-771d6b7e1e0a}
+2019-04-29 15:05:16.477711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{2571482a-0be4-4b98-a7f3-8cde2556e027}
+2019-04-29 15:05:16.478710:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{41abf13d-4c68-47de-80b4-e85ba0a657ac}
+2019-04-29 15:05:16.479711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{0692a5b2-39fd-47e6-98b5-47972d5db0db}
+2019-04-29 15:05:16.479711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              			Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model	{9e681cb5-e9ad-4e80-805a-4c3c4959fa60}
+2019-04-29 15:05:16.480707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              	Ground	{1306803f-9a8b-47cb-b063-0c9d73365df5}
+2019-04-29 15:05:16.481711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		GroundTrackVerges	{21851473-2ee8-4b52-b649-cdc89a0f2868}
+2019-04-29 15:05:16.481711:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		GroundTrack	{975e42ac-18af-4d69-bf86-a9d6bb42b396}
+2019-04-29 15:05:16.482708:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		GroundExtents	{04f0cab5-1540-4841-963c-4443542535e3}
+2019-04-29 15:05:16.483707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              	Pillar	{45415c92-bf8e-42ab-997e-7d5d156c9870}
+2019-04-29 15:05:16.483707:      <info>   [DSEngineTestProject\TestGameApp.cpp:356]              		defaultobject	{640b8ab6-5ae8-45bb-be76-3e481ebe7ffb}
+2019-04-29 15:05:16.487709:     <trace>   [DSEngineTestProject\EngineAudioManager.cpp:319]       Starting audio file "Assets/Audio/startup.wav" playback at 0x33e8
+2019-04-29 15:05:16.487709:     <trace>   [DSEngineTestProject\EngineAudioManager.cpp:319]       Starting audio file "Assets/Audio/idle.wav" playback at 0x556c
+2019-04-29 15:05:16.531312:     <trace>   [DSEngineTestProject\EngineAudioManager.cpp:351]       Waiting for the stream to end
+2019-04-29 15:05:19.111353:     <trace>   [DSEngineTestProject\EngineAudioManager.cpp:373]       Stopping audio playback
+2019-04-29 15:05:19.265707:     <trace>   [DSEngineFramework\DSFDirect3D.cpp:172]                DS Engine Framework for Direct3D Resize, width = 3840, height = 2115
+2019-04-29 15:06:10.064588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x1600 stopped.
+2019-04-29 15:06:10.064588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x1050 stopped.
+2019-04-29 15:06:10.066591:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x446c stopped.
+2019-04-29 15:06:10.067589:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x5160 stopped.
+2019-04-29 15:06:10.068592:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x1ad4 stopped.
+2019-04-29 15:06:10.070588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0xf90 stopped.
+2019-04-29 15:06:10.071588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x294 stopped.
+2019-04-29 15:06:10.072589:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x43a4 stopped.
+2019-04-29 15:06:10.074588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x53f0 stopped.
+2019-04-29 15:06:10.076588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x3e0c stopped.
+2019-04-29 15:06:10.077588:     <trace>   [DSEngineFramework\DSFThreadPool.cpp:23]               Thread Pool thread at 0x5740 stopped.
